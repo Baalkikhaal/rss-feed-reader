@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://baalkikhaal.github.io/rss-feed-reader/index.html</id>
+    <title>osmos::feed</title>
+    <updated>2021-05-08T09:14:38.351Z</updated>
+    <generator>osmosfeed 1.5.0</generator>
+    <link rel="alternate" href="https://baalkikhaal.github.io/rss-feed-reader/index.html"/>
+    <link rel="self" href="https://baalkikhaal.github.io/rss-feed-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[v1.5.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0"/>
+        <updated>2021-05-08T05:16:47.000Z</updated>
+        <summary type="html"><![CDATA[Added: Atom feed generator
+Added: Customizable site title
+Added: Copy all files from static directory to the root of the site.
+Changed: Favicon, css, and js assets now existing at site root level.
+Chore: Excluded testing files from repo.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems]]></title>
+        <id>https://www.freecodecamp.org/news/machine-learning-systems-book-recommendations/</id>
+        <link href="https://www.freecodecamp.org/news/machine-learning-systems-book-recommendations/"/>
+        <updated>2021-05-07T21:07:57.000Z</updated>
+        <summary type="html"><![CDATA[“Good friends, good books, and a sleepy conscience: this is the ideal life.” ― Mark TwainI hope you’re reading this blog in your pjs looking forward to a rejuvenating and healthy weekend.  I have been working on multiple projects lately, from creating Machine Learing Engineering and Machine Learning Operations courses]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recursion Might Seem Scary – But it Doesn&#x27;t Have to Be]]></title>
+        <id>https://www.freecodecamp.org/news/recursion-doesnt-have-to-be-scary/</id>
+        <link href="https://www.freecodecamp.org/news/recursion-doesnt-have-to-be-scary/"/>
+        <updated>2021-05-07T16:59:53.000Z</updated>
+        <summary type="html"><![CDATA[Any concept that we don't fully understand can be scary at first. Recursion is a topic that programming students don't learn right away. But that doesn't mean it needs to be scary or cause anxiety. In fact, recursion is a concept that we can define rather simply. According to Wikipedia:]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is &quot;Lifting State Up&quot; in React?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/"/>
+        <updated>2021-05-06T21:41:34.000Z</updated>
+        <summary type="html"><![CDATA[Here is a simple and practical example what it means to "lift state up" in React, and how it can help you build your applications. Lifting state up is a common pattern that is essential for React developers to know. It helps you avoid more complex (and often unnecessary) patterns]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Use the Chrome DevTools to Troubleshoot Websites]]></title>
+        <id>https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/"/>
+        <updated>2021-05-06T16:26:08.000Z</updated>
+        <summary type="html"><![CDATA[Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. They can be super helpful for web developers. We just published a crash course that will teach you how to use Chrome DevTools to improve your productivity as a web developer. You will learn]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optional Types in Swift – How to Use and Unwrap Optionals]]></title>
+        <id>https://www.freecodecamp.org/news/optional-types-in-swift/</id>
+        <link href="https://www.freecodecamp.org/news/optional-types-in-swift/"/>
+        <updated>2021-05-06T16:06:35.000Z</updated>
+        <summary type="html"><![CDATA[If you're coming from Java, C++, or other object-oriented languages, chances are that you've never come across optional types or "optionals". And you might be quite surprised to know that such a concept exists in Swift. Optionals are a fundamental topic that you need to thoroughly understand to code in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python and OpenCV Course –Create Computer Vision Apps in the Cloud]]></title>
+        <id>https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/</id>
+        <link href="https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/"/>
+        <updated>2021-05-05T21:11:40.000Z</updated>
+        <summary type="html"><![CDATA[OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.4.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0"/>
+        <updated>2021-05-05T07:20:50.000Z</updated>
+        <summary type="html"><![CDATA[Added: Basic theme customization: Demo | Source. See documentation.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.3.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1"/>
+        <updated>2021-05-05T05:19:57.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: Avoid crwalers.
+Fixed: Error logging from XML parser.
+Fixed: Typo in docs.
+Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.3.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0"/>
+        <updated>2021-05-05T05:19:26.000Z</updated>
+        <summary type="html"><![CDATA[Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.
+Added: Documentation for osmosfeed.yaml.
+Fixed: More intuitive logging during build.
+Chore: Refactored parameter passing for enrich step.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.2.3]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3"/>
+        <updated>2021-05-05T05:19:03.000Z</updated>
+        <summary type="html"><![CDATA[Changed: favicon update.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.2.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1"/>
+        <updated>2021-05-05T05:18:52.000Z</updated>
+        <summary type="html"><![CDATA[Added: Display CLI version in footer.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.1.6]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.6</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.6"/>
+        <updated>2021-05-05T05:18:40.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: The output website didn't have favicon.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.1.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.1"/>
+        <updated>2021-05-05T05:18:27.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: Item description didn't use the description property from feed item.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.1.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.0"/>
+        <updated>2021-05-05T05:17:37.000Z</updated>
+        <summary type="html"><![CDATA[Added: MIT license
+Added: cache.json is stamped with the version of the builder. This allows future builder with breaking change to ignore incompatible cache.
+Added: Feed source retry on fetch error (3 times total, 15 seconds timeout).
+Added: Item enrichment retry on fetch error (3 times total, 15 seconds timeout).
+Added: Console log for cache restore and update behavior.
+Added: npx command: npx osmosfeed
+Changed: Improved console log that breaks down rendered item count into "new" and "cached".
+Fixed: Item…]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.0.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.0.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.0.1"/>
+        <updated>2021-05-05T05:16:07.000Z</updated>
+        <summary type="html"><![CDATA[Changed: Runtime dependencies are moved out of devDependencies. This is not a breaking change, but to receive performance benefit, you need to make sure @osmoscraft/osmosfeed is listed as dependencies instead of devDependencies in the package.json of your rss reader site.
+Changed: Build target from node12 to node14.
+Changed: Switched to a more robust rss parser: rss-parser
+Fixed: RSS 1.0 feed &lt;dc:date&gt; was not parsed as publish date.
+Chore: npm dependencies version updates.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js Async Await Tutorial – With Asynchronous JavaScript Examples]]></title>
+        <id>https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/</id>
+        <link href="https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/"/>
+        <updated>2021-05-04T16:07:17.000Z</updated>
+        <summary type="html"><![CDATA[A complete guide to Node.js async await]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)]]></title>
+        <id>https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/</id>
+        <link href="https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/"/>
+        <updated>2021-05-04T15:33:12.000Z</updated>
+        <summary type="html"><![CDATA[To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fetch Data in React from a GraphQL API]]></title>
+        <id>https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/</id>
+        <link href="https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/"/>
+        <updated>2021-05-03T17:20:56.000Z</updated>
+        <summary type="html"><![CDATA[Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common Mistakes React Developers Make – And How to Fix Them]]></title>
+        <id>https://www.freecodecamp.org/news/common-mistakes-react-developers-make-and-how-to-fix-them/</id>
+        <link href="https://www.freecodecamp.org/news/common-mistakes-react-developers-make-and-how-to-fix-them/"/>
+        <updated>2021-05-03T16:40:08.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll see some of the common mistakes that React developers make, and how you can avoid them. So let's get started. Don't Forget that Every Route Change Mounts and Unmounts a ComponentWhenever you're using routing in a React application, you declare routes inside the Switch component. This]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Package Manager v0.3 Preview]]></title>
+        <id>https://devblogs.microsoft.com/commandline/windows-package-manager-preview-v0-3/</id>
+        <link href="https://devblogs.microsoft.com/commandline/windows-package-manager-preview-v0-3/"/>
+        <updated>2021-04-22T21:15:09.000Z</updated>
+        <summary type="html"><![CDATA[We have been hard at work building new experimental features for the Windows Package Manager. We have just released the Windows Package Manager v0.3 Preview. I would like to share the first major feature to exit experimental status. I also have the privilege of announcing support for Group Policy.
+The post Windows Package Manager v0.3 Preview appeared first on Windows Command Line.]]></summary>
+        <author>
+            <name>Windows Command Line</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux]]></title>
+        <id>https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/</id>
+        <link href="https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/"/>
+        <updated>2021-04-21T17:07:23.000Z</updated>
+        <summary type="html"><![CDATA[A year ago at BUILD 2020 we introduced our goal to bring Linux GUI applications to the Windows Subsystem for Linux (WSL) to run Linux GUI applications. We are proud to announce the first preview of this highly anticipated and open source feature!
+The post The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux appeared first on Windows Command Line.]]></summary>
+        <author>
+            <name>Windows Command Line</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WSLg Architecture]]></title>
+        <id>https://devblogs.microsoft.com/commandline/wslg-architecture/</id>
+        <link href="https://devblogs.microsoft.com/commandline/wslg-architecture/"/>
+        <updated>2021-04-20T04:06:05.000Z</updated>
+        <summary type="html"><![CDATA[If you landed on this blog, you’ve probably seen our announcement for GUI applications support in the Windows Subsystem for Linux being available to Windows Insiders and looking for more details on how WSLg was built. If so, you’ve come to the right place!
+The post WSLg Architecture appeared first on Windows Command Line.]]></summary>
+        <author>
+            <name>Windows Command Line</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Climbing Cerro Zapaleri]]></title>
+        <id>https://mpetroff.net/2021/04/climbing-cerro-zapaleri/</id>
+        <link href="https://mpetroff.net/2021/04/climbing-cerro-zapaleri/"/>
+        <updated>2021-04-17T22:10:18.000Z</updated>
+        <summary type="html"><![CDATA[Last month, I climbed Cerro Zapaleri, the 5648&#8201;m tall summit of which forms the tripoint of the borders of Chile, Argentina, and Bolivia.1 Its location is quite remote, ~105&#8201;km from San Pedro de Atacama, Chile and >40&#8201;km from the nearest &#8230; Continue reading &#8594;]]></summary>
+        <author>
+            <name>Matthew Petroff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Servicing the Windows Subsystem for Linux (WSL) 2 Linux kernel]]></title>
+        <id>https://devblogs.microsoft.com/commandline/servicing-the-windows-subsystem-for-linux-wsl-2-linux-kernel/</id>
+        <link href="https://devblogs.microsoft.com/commandline/servicing-the-windows-subsystem-for-linux-wsl-2-linux-kernel/"/>
+        <updated>2021-04-16T20:59:42.000Z</updated>
+        <summary type="html"><![CDATA[Note: This blog post is co-authored by the awesome WSL dev Pierre Boulay. Thanks Pierre! 😊
+The post Servicing the Windows Subsystem for Linux (WSL) 2 Linux kernel appeared first on Windows Command Line.]]></summary>
+        <author>
+            <name>Windows Command Line</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Terminal Preview 1.8 Release]]></title>
+        <id>https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-8-release/</id>
+        <link href="https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-8-release/"/>
+        <updated>2021-04-14T17:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Welcome back to another release of Windows Terminal! This release updates Windows Terminal Preview to version 1.8 and moves Windows Terminal to version 1.7. Both builds can be installed from the Microsoft Store as well as the GitHub releases page. Let&#8217;s jump into what&#8217;s new!
+The post Windows Terminal Preview 1.8 Release appeared first on Windows Command Line.]]></summary>
+        <author>
+            <name>Windows Command Line</name>
+        </author>
+    </entry>
+</feed>
