@@ -1,6 +1,8 @@
 # About
 
-This is repository hosts the UI and content of an RSS feed reader.
+This repository hosts the UI and content of an RSS feed reader. 
+
+We have used the template of osmosfeed repository.
 
 ## Links and references
 
