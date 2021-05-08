@@ -93,7 +93,7 @@
           "description": "We have been hard at work building new experimental features for the Windows Package Manager. We have just released the Windows Package Manager v0.3 Preview. I would like to share the first major feature to exit experimental status. I also have the privilege of announcing support for Group Policy.\nThe post Windows Package Manager v0.3 Preview appeared first on Windows Command Line.",
           "link": "https://devblogs.microsoft.com/commandline/windows-package-manager-preview-v0-3/",
           "publishedOn": "2021-04-22T21:15:09.000Z",
-          "wordCount": 1622,
+          "wordCount": 1644,
           "sourceHref": "https://devblogs.microsoft.com/commandline/feed/",
           "sourceTitle": "Windows Command Line",
           "title": "Windows Package Manager v0.3 Preview"
@@ -153,6 +153,24 @@
     {
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
+        {
+          "description": "“Good friends, good books, and a sleepy conscience: this is the ideal life.” ― Mark TwainI hope you’re reading this blog in your pjs looking forward to a rejuvenating and healthy weekend.  I have been working on multiple projects lately, from creating Machine Learing Engineering and Machine Learning Operations courses",
+          "link": "https://www.freecodecamp.org/news/machine-learning-systems-book-recommendations/",
+          "publishedOn": "2021-05-07T21:07:57.000Z",
+          "wordCount": 1065,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems"
+        },
+        {
+          "description": "Any concept that we don't fully understand can be scary at first. Recursion is a topic that programming students don't learn right away. But that doesn't mean it needs to be scary or cause anxiety. In fact, recursion is a concept that we can define rather simply. According to Wikipedia:",
+          "link": "https://www.freecodecamp.org/news/recursion-doesnt-have-to-be-scary/",
+          "publishedOn": "2021-05-07T16:59:53.000Z",
+          "wordCount": 1278,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Recursion Might Seem Scary – But it Doesn&#x27;t Have to Be"
+        },
         {
           "description": "Here is a simple and practical example what it means to \"lift state up\" in React, and how it can help you build your applications. Lifting state up is a common pattern that is essential for React developers to know. It helps you avoid more complex (and often unnecessary) patterns",
           "link": "https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/",
@@ -224,24 +242,6 @@
           "sourceHref": "https://www.freecodecamp.org/news/rss/",
           "sourceTitle": "freeCodeCamp.org",
           "title": "Common Mistakes React Developers Make – And How to Fix Them"
-        },
-        {
-          "description": "Cross Site Request Forgery, or CSRF occurs when a malicious site or program causes a user's browser to perform an unwanted action on a trusted site when the user is authenticated. Any malicious action is limited to the capability of the website to which the user is authenticated. For example,",
-          "link": "https://www.freecodecamp.org/news/what-is-cross-site-request-forgery/",
-          "publishedOn": "2021-05-03T16:13:55.000Z",
-          "wordCount": 1406,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Cross Site Request Forgery – What is a CSRF Attack and How to Prevent It"
-        },
-        {
-          "description": "You can learn everything you need to know to earn the Azure Administrator Certification by completing this free 11-hour course. What is Microsoft Azure Administrator?The Azure Administrator is the most popular Azure certification because it provides the broadest amount of practical knowledge to manage Azure infrastructure. It also allows",
-          "link": "https://www.freecodecamp.org/news/azure-administrator-certification-az-104-pass-the-exam-with-this-free-11-hour-course/",
-          "publishedOn": "2021-05-03T15:31:42.000Z",
-          "wordCount": 896,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Azure Administrator Certification (AZ-104) – Pass the Exam With This Free 11-Hour Course"
         }
       ]
     }
