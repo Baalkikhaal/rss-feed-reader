@@ -275,6 +275,77 @@
           "title": "Internal Combustion Engine"
         }
       ]
+    },
+    {
+      "href": "https://physicsforme.com/feed/",
+      "articles": [
+        {
+          "id": "http://physicsforme.com/?p=11125",
+          "author": "physicsgg",
+          "description": "Visit the post for more.",
+          "link": "https://physicsforme.com/2021/04/28/testing-gr-with-shadows-and-quasinormal-modes/",
+          "publishedOn": "2021-04-28T13:56:26.000Z",
+          "wordCount": 688,
+          "sourceHref": "https://physicsforme.com/feed/",
+          "sourceTitle": "physics4me",
+          "title": "Testing GR with Shadows and Quasinormal Modes"
+        },
+        {
+          "id": "http://physicsforme.com/?p=11121",
+          "author": "physicsgg",
+          "description": "It has been a difficult week for two COVID-19 vaccines. On 13 April, US regulators urged health-care providers to temporarily stop using a vaccine made by Johnson &#38; Johnson (J&#38;J) of New Brunswick, New Jersey, because of six suspected cases of unusual blood clotting among nearly seven million vaccine recipients. The move came after European [&#8230;]",
+          "link": "https://physicsforme.com/2021/04/24/covid-vaccines-and-blood-clots-five-key-questions/",
+          "publishedOn": "2021-04-24T10:49:29.000Z",
+          "wordCount": 785,
+          "sourceHref": "https://physicsforme.com/feed/",
+          "sourceTitle": "physics4me",
+          "title": "COVID vaccines and blood clots: five key questions"
+        },
+        {
+          "id": "http://physicsforme.com/?p=11118",
+          "author": "physicsgg",
+          "description": "Visit the post for more.",
+          "link": "https://physicsforme.com/2021/04/23/juan-maldacena-black-holes-hawking-radiation-and-the-nature-of-spacetime/",
+          "publishedOn": "2021-04-23T14:27:30.000Z",
+          "wordCount": 712,
+          "sourceHref": "https://physicsforme.com/feed/",
+          "sourceTitle": "physics4me",
+          "title": "Juan Maldacena: Black Holes, Hawking Radiation and the Nature of Spacetime"
+        },
+        {
+          "id": "http://physicsforme.com/?p=11115",
+          "author": "physicsgg",
+          "description": "Fermilab&#8217;s Dr. Adam Lyon breaks down the first results from the Muon g-2 experiment in this special public lecture, part of the Fermilab Arts and Lecture Series. On April 7, 2021, the Muon g-2 experiment hosted at the U.S. Department of Energy’s Fermi National Accelerator Laboratory released its long-awaited first results. The results show fundamental [&#8230;]",
+          "link": "https://physicsforme.com/2021/04/18/what-can-wobbling-muons-tell-us-about-the-particles-in-our-universe/",
+          "publishedOn": "2021-04-18T21:21:31.000Z",
+          "wordCount": 924,
+          "sourceHref": "https://physicsforme.com/feed/",
+          "sourceTitle": "physics4me",
+          "title": "What Can Wobbling Muons Tell Us About the Particles in our Universe?"
+        },
+        {
+          "id": "http://physicsforme.com/?p=11113",
+          "author": "physicsgg",
+          "description": "Visit the post for more.",
+          "link": "https://physicsforme.com/2021/04/16/the-anomalies-strike-back/",
+          "publishedOn": "2021-04-16T07:20:53.000Z",
+          "wordCount": 695,
+          "sourceHref": "https://physicsforme.com/feed/",
+          "sourceTitle": "physics4me",
+          "title": "The Anomalies Strike Back"
+        },
+        {
+          "id": "http://physicsforme.com/?p=11109",
+          "author": "physicsgg",
+          "description": "Hebrew University of Jerusalem Researcher introduces a new approach to the “three-body problem”; predicts its outcome statistics The “three-body problem,”&#160;the term coined for predicting the motion of three gravitating bodies in space, is essential for understanding a variety of astrophysical processes as well as a large class of mechanical problems, and has occupied some of [&#8230;]",
+          "link": "https://physicsforme.com/2021/04/14/novel-theory-addresses-centuries-old-physics-problem/",
+          "publishedOn": "2021-04-14T06:26:35.000Z",
+          "wordCount": 1908,
+          "sourceHref": "https://physicsforme.com/feed/",
+          "sourceTitle": "physics4me",
+          "title": "Novel theory addresses centuries-old physics problem"
+        }
+      ]
     }
   ],
   "cliVersion": "1.5.0"
