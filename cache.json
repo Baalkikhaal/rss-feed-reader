@@ -255,6 +255,10 @@
           "title": "Common Mistakes React Developers Make – And How to Fix Them"
         }
       ]
+    },
+    {
+      "href": "https://devblogs.microsoft.com/typescript/feed/",
+      "articles": []
     }
   ],
   "cliVersion": "1.5.0"
