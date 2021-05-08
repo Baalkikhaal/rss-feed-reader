@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baalkikhaal.github.io/rss-feed-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-08T09:26:26.769Z</updated>
+    <updated>2021-05-08T10:20:55.467Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="https://baalkikhaal.github.io/rss-feed-reader/index.html"/>
     <link rel="self" href="https://baalkikhaal.github.io/rss-feed-reader/feed.atom"/>
@@ -225,6 +225,18 @@ Chore: npm dependencies version updates.]]></summary>
         <summary type="html"><![CDATA[In this article, we'll see some of the common mistakes that React developers make, and how you can avoid them. So let's get started. Don't Forget that Every Route Change Mounts and Unmounts a ComponentWhenever you're using routing in a React application, you declare routes inside the Switch component. This]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Internal Combustion Engine]]></title>
+        <id>https://ciechanow.ski/internal-combustion-engine/</id>
+        <link href="https://ciechanow.ski/internal-combustion-engine/"/>
+        <updated>2021-04-29T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The invention of the internal combustion engine in the 19th century has revolutionized transportation over land, water, and air. Despite their omnipresence in modern day, the operation of an engine may be cryptic. Over the course of this article I&rsquo;d like to explain the functionality of all the basic engine parts shown in the demonstration below. You can drag it around to see it from other angles:
+
+This article has many interactive demonstrations which are best seen .]]></summary>
+        <author>
+            <name>Bartosz Ciechanowski</name>
         </author>
     </entry>
     <entry>

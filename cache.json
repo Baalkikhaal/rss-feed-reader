@@ -259,6 +259,22 @@
     {
       "href": "https://devblogs.microsoft.com/typescript/feed/",
       "articles": []
+    },
+    {
+      "href": "https://ciechanow.ski/atom.xml",
+      "articles": [
+        {
+          "id": "https://ciechanow.ski/internal-combustion-engine/",
+          "author": "Bartosz Ciechanowski",
+          "description": "The invention of the internal combustion engine in the 19th century has revolutionized transportation over land, water, and air. Despite their omnipresence in modern day, the operation of an engine may be cryptic. Over the course of this article I&rsquo;d like to explain the functionality of all the basic engine parts shown in the demonstration below. You can drag it around to see it from other angles:\n\nThis article has many interactive demonstrations which are best seen .",
+          "link": "https://ciechanow.ski/internal-combustion-engine/",
+          "publishedOn": "2021-04-29T12:00:00.000Z",
+          "wordCount": 5898,
+          "sourceHref": "https://ciechanow.ski/atom.xml",
+          "sourceTitle": "Bartosz Ciechanowski",
+          "title": "Internal Combustion Engine"
+        }
+      ]
     }
   ],
   "cliVersion": "1.5.0"
