@@ -1,283 +1,293 @@
 {
   "sources": [
     {
-      "href": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0",
-          "author": "Release notes from osmosfeed",
-          "description": "Added: Atom feed generator\nAdded: Customizable site title\nAdded: Copy all files from static directory to the root of the site.\nChanged: Favicon, css, and js assets now existing at site root level.\nChore: Excluded testing files from repo.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0",
-          "publishedOn": "2021-05-08T05:16:47.000Z",
-          "wordCount": 310,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
-          "title": "v1.5.0"
-        },
-        {
-          "description": "Added: Basic theme customization: Demo | Source. See documentation.",
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
+          "author": null,
+          "description": "Added: Basic theme customization: Demo | Source | Docs.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "publishedOn": "2021-05-05T07:20:50.000Z",
-          "wordCount": 280,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
+          "publishedOn": "2021-05-10T08:55:42.000Z",
+          "wordCount": 276,
           "title": "v1.4.0"
         },
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0",
+          "author": null,
+          "description": "Added: Link from the title of a subscription to its website.\nAdded: Store feedUrl and siteUrl for each source in cache.\nAdded: Semantic element (&lt;time&gt;) for timestamp on the UI.\nAdded: Semantic API for theming the default template. Demo | Source | Docs\nChanged: Moved feed metadata from article level to feed level in cache.\nFixed: Any html-like text was stripped from title. Fixed with encoded text.\nRemoved: href for each source in cache. The value was never used so it's not a breaking change.",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0",
+          "publishedOn": "2021-05-10T08:15:20.000Z",
+          "wordCount": 356,
+          "title": "v1.6.0"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0",
+          "author": null,
+          "description": "Added: Atom feed generator\nAdded: Customizable site title\nAdded: Copy all files from static directory to the root of the site.\nChanged: Favicon, css, and js assets now existing at site root level.\nChore: Excluded testing files from repo.",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0",
+          "publishedOn": "2021-05-08T05:16:47.000Z",
+          "wordCount": 306,
+          "title": "v1.5.0"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1",
+          "author": null,
           "description": "Fixed: Avoid crwalers.\nFixed: Error logging from XML parser.\nFixed: Typo in docs.\nThank you: @dym-sh, @tabokie, @cheese1",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1",
           "publishedOn": "2021-05-05T05:19:57.000Z",
           "wordCount": 285,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.3.1"
         },
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0",
+          "author": null,
           "description": "Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.\nAdded: Documentation for osmosfeed.yaml.\nFixed: More intuitive logging during build.\nChore: Refactored parameter passing for enrich step.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0",
           "publishedOn": "2021-05-05T05:19:26.000Z",
           "wordCount": 293,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.3.0"
         },
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3",
+          "author": null,
           "description": "Changed: favicon update.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3",
           "publishedOn": "2021-05-05T05:19:03.000Z",
           "wordCount": 270,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.2.3"
         },
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1",
+          "author": null,
           "description": "Added: Display CLI version in footer.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1",
           "publishedOn": "2021-05-05T05:18:52.000Z",
           "wordCount": 273,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.2.1"
         },
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.6",
+          "author": null,
           "description": "Fixed: The output website didn't have favicon.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.6",
           "publishedOn": "2021-05-05T05:18:40.000Z",
           "wordCount": 274,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.1.6"
         },
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.1",
+          "author": null,
           "description": "Fixed: Item description didn't use the description property from feed item.",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.1",
           "publishedOn": "2021-05-05T05:18:27.000Z",
           "wordCount": 278,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.1.1"
         },
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.0",
+          "author": null,
           "description": "Added: MIT license\nAdded: cache.json is stamped with the version of the builder. This allows future builder with breaking change to ignore incompatible cache.\nAdded: Feed source retry on fetch error (3 times total, 15 seconds timeout).\nAdded: Item enrichment retry on fetch error (3 times total, 15 seconds timeout).\nAdded: Console log for cache restore and update behavior.\nAdded: npx command: npx osmosfeed\nChanged: Improved console log that breaks down rendered item count into \"new\" and \"cached\".\nFixed: Item…",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.0",
           "publishedOn": "2021-05-05T05:17:37.000Z",
           "wordCount": 353,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
           "title": "v1.1.0"
-        },
-        {
-          "description": "Changed: Runtime dependencies are moved out of devDependencies. This is not a breaking change, but to receive performance benefit, you need to make sure @osmoscraft/osmosfeed is listed as dependencies instead of devDependencies in the package.json of your rss reader site.\nChanged: Build target from node12 to node14.\nChanged: Switched to a more robust rss parser: rss-parser\nFixed: RSS 1.0 feed &lt;dc:date&gt; was not parsed as publish date.\nChore: npm dependencies version updates.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.0.1",
-          "publishedOn": "2021-05-05T05:16:07.000Z",
-          "wordCount": 339,
-          "sourceHref": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-          "sourceTitle": "Release notes from osmosfeed",
-          "title": "v1.0.1"
         }
       ]
     },
     {
-      "href": "https://devblogs.microsoft.com/commandline/feed/",
+      "title": "Windows Command Line",
+      "feedUrl": "https://devblogs.microsoft.com/commandline/feed/",
+      "siteUrl": "https://devblogs.microsoft.com/commandline",
       "articles": [
         {
+          "id": "https://devblogs.microsoft.com/commandline/?p=6636",
+          "author": "Demitrius Nelon",
           "description": "We have been hard at work building new experimental features for the Windows Package Manager. We have just released the Windows Package Manager v0.3 Preview. I would like to share the first major feature to exit experimental status. I also have the privilege of announcing support for Group Policy.\nThe post Windows Package Manager v0.3 Preview appeared first on Windows Command Line.",
           "link": "https://devblogs.microsoft.com/commandline/windows-package-manager-preview-v0-3/",
           "publishedOn": "2021-04-22T21:15:09.000Z",
-          "wordCount": 1644,
-          "sourceHref": "https://devblogs.microsoft.com/commandline/feed/",
-          "sourceTitle": "Windows Command Line",
+          "wordCount": 1664,
           "title": "Windows Package Manager v0.3 Preview"
         },
         {
+          "id": "https://devblogs.microsoft.com/commandline/?p=6619",
+          "author": "Craig Loewen",
           "description": "A year ago at BUILD 2020 we introduced our goal to bring Linux GUI applications to the Windows Subsystem for Linux (WSL) to run Linux GUI applications. We are proud to announce the first preview of this highly anticipated and open source feature!\nThe post The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux appeared first on Windows Command Line.",
           "link": "https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/",
           "publishedOn": "2021-04-21T17:07:23.000Z",
-          "wordCount": 2637,
-          "sourceHref": "https://devblogs.microsoft.com/commandline/feed/",
-          "sourceTitle": "Windows Command Line",
+          "wordCount": 2643,
           "title": "The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux"
         },
         {
+          "id": "https://devblogs.microsoft.com/commandline/?p=6609",
+          "author": "Steve Pronovost",
           "description": "If you landed on this blog, you’ve probably seen our announcement for GUI applications support in the Windows Subsystem for Linux being available to Windows Insiders and looking for more details on how WSLg was built. If so, you’ve come to the right place!\nThe post WSLg Architecture appeared first on Windows Command Line.",
           "link": "https://devblogs.microsoft.com/commandline/wslg-architecture/",
           "publishedOn": "2021-04-20T04:06:05.000Z",
-          "wordCount": 5301,
-          "sourceHref": "https://devblogs.microsoft.com/commandline/feed/",
-          "sourceTitle": "Windows Command Line",
+          "wordCount": 5340,
           "title": "WSLg Architecture"
         },
         {
+          "id": "https://devblogs.microsoft.com/commandline/?p=6589",
+          "author": "Craig Loewen",
           "description": "Note: This blog post is co-authored by the awesome WSL dev Pierre Boulay. Thanks Pierre! 😊\nThe post Servicing the Windows Subsystem for Linux (WSL) 2 Linux kernel appeared first on Windows Command Line.",
           "link": "https://devblogs.microsoft.com/commandline/servicing-the-windows-subsystem-for-linux-wsl-2-linux-kernel/",
           "publishedOn": "2021-04-16T20:59:42.000Z",
           "wordCount": 1281,
-          "sourceHref": "https://devblogs.microsoft.com/commandline/feed/",
-          "sourceTitle": "Windows Command Line",
           "title": "Servicing the Windows Subsystem for Linux (WSL) 2 Linux kernel"
         },
         {
+          "id": "https://devblogs.microsoft.com/commandline/?p=6574",
+          "author": "Kayla Cinnamon",
           "description": "Welcome back to another release of Windows Terminal! This release updates Windows Terminal Preview to version 1.8 and moves Windows Terminal to version 1.7. Both builds can be installed from the Microsoft Store as well as the GitHub releases page. Let&#8217;s jump into what&#8217;s new!\nThe post Windows Terminal Preview 1.8 Release appeared first on Windows Command Line.",
           "link": "https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-8-release/",
           "publishedOn": "2021-04-14T17:00:46.000Z",
           "wordCount": 1584,
-          "sourceHref": "https://devblogs.microsoft.com/commandline/feed/",
-          "sourceTitle": "Windows Command Line",
           "title": "Windows Terminal Preview 1.8 Release"
         }
       ]
     },
     {
-      "href": "https://mpetroff.net/feed/",
+      "title": "Matthew Petroff",
+      "feedUrl": "https://mpetroff.net/feed/",
+      "siteUrl": "https://mpetroff.net",
       "articles": [
         {
+          "id": "https://mpetroff.net/?p=3406",
+          "author": "Matthew Petroff",
           "description": "Last month, I climbed Cerro Zapaleri, the 5648&#8201;m tall summit of which forms the tripoint of the borders of Chile, Argentina, and Bolivia.1 Its location is quite remote, ~105&#8201;km from San Pedro de Atacama, Chile and >40&#8201;km from the nearest &#8230; Continue reading &#8594;",
           "link": "https://mpetroff.net/2021/04/climbing-cerro-zapaleri/",
           "publishedOn": "2021-04-17T22:10:18.000Z",
           "wordCount": 2263,
-          "sourceHref": "https://mpetroff.net/feed/",
-          "sourceTitle": "Matthew Petroff",
           "title": "Climbing Cerro Zapaleri"
         }
       ]
     },
     {
-      "href": "https://www.freecodecamp.org/news/rss/",
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60953e202cd0545b5e943a8b",
+          "author": "",
+          "description": "Technical interviews are one of the most stressful parts of landing a job in tech.  You don't know what questions the interviewer is going to ask. What if you have no idea how to solve the problem in front of you? What if you freeze up and look like you",
+          "link": "https://www.freecodecamp.org/news/how-to-acing-your-coding-interview-advice-from-senior-software-engineer/",
+          "publishedOn": "2021-05-10T17:04:31.000Z",
+          "wordCount": 1254,
+          "title": "How to Ace Your Coding Interview – Advice from a Senior Software Engineer"
+        },
+        {
+          "id": "609558382cd0545b5e943c6f",
+          "author": "",
           "description": "“Good friends, good books, and a sleepy conscience: this is the ideal life.” ― Mark TwainI hope you’re reading this blog in your pjs looking forward to a rejuvenating and healthy weekend.  I have been working on multiple projects lately, from creating Machine Learing Engineering and Machine Learning Operations courses",
           "link": "https://www.freecodecamp.org/news/machine-learning-systems-book-recommendations/",
           "publishedOn": "2021-05-07T21:07:57.000Z",
           "wordCount": 1065,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems"
         },
         {
+          "id": "609551f02cd0545b5e943bc0",
+          "author": "",
           "description": "Any concept that we don't fully understand can be scary at first. Recursion is a topic that programming students don't learn right away. But that doesn't mean it needs to be scary or cause anxiety. In fact, recursion is a concept that we can define rather simply. According to Wikipedia:",
           "link": "https://www.freecodecamp.org/news/recursion-doesnt-have-to-be-scary/",
           "publishedOn": "2021-05-07T16:59:53.000Z",
           "wordCount": 1278,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Recursion Might Seem Scary – But it Doesn&#x27;t Have to Be"
         },
         {
+          "id": "609409c201fc34080ef81f97",
+          "author": "",
           "description": "Here is a simple and practical example what it means to \"lift state up\" in React, and how it can help you build your applications. Lifting state up is a common pattern that is essential for React developers to know. It helps you avoid more complex (and often unnecessary) patterns",
           "link": "https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/",
           "publishedOn": "2021-05-06T21:41:34.000Z",
           "wordCount": 1349,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "What Is &quot;Lifting State Up&quot; in React?"
         },
         {
+          "id": "609415eb2cd0545b5e943534",
+          "author": "",
           "description": "Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. They can be super helpful for web developers. We just published a crash course that will teach you how to use Chrome DevTools to improve your productivity as a web developer. You will learn",
           "link": "https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/",
           "publishedOn": "2021-05-06T16:26:08.000Z",
           "wordCount": 426,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Learn How to Use the Chrome DevTools to Troubleshoot Websites"
         },
         {
+          "id": "60939bde01fc34080ef81a19",
+          "author": "",
           "description": "If you're coming from Java, C++, or other object-oriented languages, chances are that you've never come across optional types or \"optionals\". And you might be quite surprised to know that such a concept exists in Swift. Optionals are a fundamental topic that you need to thoroughly understand to code in",
           "link": "https://www.freecodecamp.org/news/optional-types-in-swift/",
           "publishedOn": "2021-05-06T16:06:35.000Z",
           "wordCount": 1775,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Optional Types in Swift – How to Use and Unwrap Optionals"
         },
         {
+          "id": "609307e801fc34080ef8191e",
+          "author": "",
           "description": "OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine",
           "link": "https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/",
           "publishedOn": "2021-05-05T21:11:40.000Z",
           "wordCount": 352,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Python and OpenCV Course –Create Computer Vision Apps in the Cloud"
         },
         {
+          "id": "609011fd8eb3fb07cf09a034",
+          "author": "",
           "description": "A complete guide to Node.js async await",
           "link": "https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/",
           "publishedOn": "2021-05-04T16:07:17.000Z",
           "wordCount": 2241,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Node.js Async Await Tutorial – With Asynchronous JavaScript Examples"
         },
         {
+          "id": "608f5ad48eb3fb07cf099ddb",
+          "author": "",
           "description": "To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual",
           "link": "https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/",
           "publishedOn": "2021-05-04T15:33:12.000Z",
           "wordCount": 1018,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)"
         },
         {
+          "id": "6090187c8eb3fb07cf09a060",
+          "author": "",
           "description": "Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included",
           "link": "https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/",
           "publishedOn": "2021-05-03T17:20:56.000Z",
           "wordCount": 2501,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "How to Fetch Data in React from a GraphQL API"
-        },
-        {
-          "description": "In this article, we'll see some of the common mistakes that React developers make, and how you can avoid them. So let's get started. Don't Forget that Every Route Change Mounts and Unmounts a ComponentWhenever you're using routing in a React application, you declare routes inside the Switch component. This",
-          "link": "https://www.freecodecamp.org/news/common-mistakes-react-developers-make-and-how-to-fix-them/",
-          "publishedOn": "2021-05-03T16:40:08.000Z",
-          "wordCount": 1164,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Common Mistakes React Developers Make – And How to Fix Them"
         }
       ]
     },
     {
-      "href": "https://devblogs.microsoft.com/typescript/feed/",
+      "title": "TypeScript",
+      "feedUrl": "https://devblogs.microsoft.com/typescript/feed/",
+      "siteUrl": "https://devblogs.microsoft.com/typescript",
       "articles": []
     },
     {
-      "href": "https://ciechanow.ski/atom.xml",
+      "title": "Bartosz Ciechanowski",
+      "feedUrl": "https://ciechanow.ski/atom.xml",
+      "siteUrl": "https://ciechanow.ski/",
       "articles": [
         {
           "id": "https://ciechanow.ski/internal-combustion-engine/",
-          "author": "Bartosz Ciechanowski",
+          "author": null,
           "description": "The invention of the internal combustion engine in the 19th century has revolutionized transportation over land, water, and air. Despite their omnipresence in modern day, the operation of an engine may be cryptic. Over the course of this article I&rsquo;d like to explain the functionality of all the basic engine parts shown in the demonstration below. You can drag it around to see it from other angles:\n\nThis article has many interactive demonstrations which are best seen .",
           "link": "https://ciechanow.ski/internal-combustion-engine/",
           "publishedOn": "2021-04-29T12:00:00.000Z",
           "wordCount": 5898,
-          "sourceHref": "https://ciechanow.ski/atom.xml",
-          "sourceTitle": "Bartosz Ciechanowski",
           "title": "Internal Combustion Engine"
         }
       ]
     },
     {
-      "href": "https://physicsforme.com/feed/",
+      "title": "physics4me",
+      "feedUrl": "https://physicsforme.com/feed/",
+      "siteUrl": "https://physicsforme.com",
       "articles": [
         {
           "id": "http://physicsforme.com/?p=11125",
@@ -285,9 +295,7 @@
           "description": "Visit the post for more.",
           "link": "https://physicsforme.com/2021/04/28/testing-gr-with-shadows-and-quasinormal-modes/",
           "publishedOn": "2021-04-28T13:56:26.000Z",
-          "wordCount": 688,
-          "sourceHref": "https://physicsforme.com/feed/",
-          "sourceTitle": "physics4me",
+          "wordCount": 683,
           "title": "Testing GR with Shadows and Quasinormal Modes"
         },
         {
@@ -297,8 +305,6 @@
           "link": "https://physicsforme.com/2021/04/24/covid-vaccines-and-blood-clots-five-key-questions/",
           "publishedOn": "2021-04-24T10:49:29.000Z",
           "wordCount": 785,
-          "sourceHref": "https://physicsforme.com/feed/",
-          "sourceTitle": "physics4me",
           "title": "COVID vaccines and blood clots: five key questions"
         },
         {
@@ -307,9 +313,7 @@
           "description": "Visit the post for more.",
           "link": "https://physicsforme.com/2021/04/23/juan-maldacena-black-holes-hawking-radiation-and-the-nature-of-spacetime/",
           "publishedOn": "2021-04-23T14:27:30.000Z",
-          "wordCount": 712,
-          "sourceHref": "https://physicsforme.com/feed/",
-          "sourceTitle": "physics4me",
+          "wordCount": 707,
           "title": "Juan Maldacena: Black Holes, Hawking Radiation and the Nature of Spacetime"
         },
         {
@@ -318,9 +322,7 @@
           "description": "Fermilab&#8217;s Dr. Adam Lyon breaks down the first results from the Muon g-2 experiment in this special public lecture, part of the Fermilab Arts and Lecture Series. On April 7, 2021, the Muon g-2 experiment hosted at the U.S. Department of Energy’s Fermi National Accelerator Laboratory released its long-awaited first results. The results show fundamental [&#8230;]",
           "link": "https://physicsforme.com/2021/04/18/what-can-wobbling-muons-tell-us-about-the-particles-in-our-universe/",
           "publishedOn": "2021-04-18T21:21:31.000Z",
-          "wordCount": 924,
-          "sourceHref": "https://physicsforme.com/feed/",
-          "sourceTitle": "physics4me",
+          "wordCount": 929,
           "title": "What Can Wobbling Muons Tell Us About the Particles in our Universe?"
         },
         {
@@ -329,9 +331,7 @@
           "description": "Visit the post for more.",
           "link": "https://physicsforme.com/2021/04/16/the-anomalies-strike-back/",
           "publishedOn": "2021-04-16T07:20:53.000Z",
-          "wordCount": 695,
-          "sourceHref": "https://physicsforme.com/feed/",
-          "sourceTitle": "physics4me",
+          "wordCount": 690,
           "title": "The Anomalies Strike Back"
         },
         {
@@ -340,13 +340,11 @@
           "description": "Hebrew University of Jerusalem Researcher introduces a new approach to the “three-body problem”; predicts its outcome statistics The “three-body problem,”&#160;the term coined for predicting the motion of three gravitating bodies in space, is essential for understanding a variety of astrophysical processes as well as a large class of mechanical problems, and has occupied some of [&#8230;]",
           "link": "https://physicsforme.com/2021/04/14/novel-theory-addresses-centuries-old-physics-problem/",
           "publishedOn": "2021-04-14T06:26:35.000Z",
-          "wordCount": 1908,
-          "sourceHref": "https://physicsforme.com/feed/",
-          "sourceTitle": "physics4me",
+          "wordCount": 1913,
           "title": "Novel theory addresses centuries-old physics problem"
         }
       ]
     }
   ],
-  "cliVersion": "1.5.0"
+  "cliVersion": "1.6.0"
 }
