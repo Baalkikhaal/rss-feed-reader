@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baalkikhaal.github.io/rss-feed-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-12T00:40:57.627Z</updated>
+    <updated>2021-05-13T00:48:46.228Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://baalkikhaal.github.io/rss-feed-reader/index.html"/>
     <link rel="self" href="https://baalkikhaal.github.io/rss-feed-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Announcing TypeScript 4.3 RC]]></title>
+        <id>https://devblogs.microsoft.com/typescript/?p=2970</id>
+        <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-rc/"/>
+        <updated>2021-05-12T22:34:18.000Z</updated>
+        <summary type="html"><![CDATA[Today we&#8217;re excited to announce our Release Candidate (RC) of TypeScript 4.3! Between now and the stable release of TypeScript 4.2, we expect no further changes apart from critical bug fixes.
+The post Announcing TypeScript 4.3 RC appeared first on TypeScript.]]></summary>
+        <author>
+            <name>Daniel Rosenwasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Deploy a Portfolio with Vue.JS, Axios, the GitHub REST API, and Netlify]]></title>
+        <id>5fde208ae6787e09839407c3</id>
+        <link href="https://www.freecodecamp.org/news/build-a-portfolio-with-vuejs/"/>
+        <updated>2021-05-12T20:53:20.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, we will build two simple projects and deploy them on Netlify. We will use Vue.js as our front-end framework, and use different technologies to build our projects.  If you follow this tutorial to the end, you will build a simplified version of Twitter and a single]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use the Kivy Python Library to Create Games and Mobile Apps]]></title>
+        <id>609c215862ab9107fe5a9fa9</id>
+        <link href="https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/"/>
+        <updated>2021-05-12T18:49:36.000Z</updated>
+        <summary type="html"><![CDATA[Kivy is a free and open source Python framework for developing mobile apps and games with a natural user interface. We just released a 5-hour Kivy course on the freeCodeCamp.org YouTube channel. In this Kivy course, you will learn to create games and applications with Python for every platform]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Selenium and Python to Scrape Websites More Effectively]]></title>
         <id>6096aafe2cd0545b5e944430</id>
