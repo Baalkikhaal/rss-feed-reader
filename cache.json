@@ -6,6 +6,15 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
+          "author": null,
+          "description": "Added: templating system. Demo | Source | Docs\nChore: rendering logic refactoring. Adopting functional paradigm.",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
+          "publishedOn": "2021-05-15T09:35:54.000Z",
+          "wordCount": 286,
+          "title": "v1.7.0"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
           "author": null,
           "description": "Added: Basic theme customization: Demo | Source | Docs.",
@@ -478,18 +487,9 @@
           "publishedOn": "2021-04-18T21:21:31.000Z",
           "wordCount": 929,
           "title": "What Can Wobbling Muons Tell Us About the Particles in our Universe?"
-        },
-        {
-          "id": "http://physicsforme.com/?p=11113",
-          "author": "physicsgg",
-          "description": "Visit the post for more.",
-          "link": "https://physicsforme.com/2021/04/16/the-anomalies-strike-back/",
-          "publishedOn": "2021-04-16T07:20:53.000Z",
-          "wordCount": 690,
-          "title": "The Anomalies Strike Back"
         }
       ]
     }
   ],
-  "cliVersion": "1.6.0"
+  "cliVersion": "1.7.0"
 }

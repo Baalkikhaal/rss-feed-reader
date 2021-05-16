@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baalkikhaal.github.io/rss-feed-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-15T00:47:31.385Z</updated>
-    <generator>osmosfeed 1.6.0</generator>
+    <updated>2021-05-16T00:52:12.260Z</updated>
+    <generator>osmosfeed 1.7.0</generator>
     <link rel="alternate" href="https://baalkikhaal.github.io/rss-feed-reader/index.html"/>
     <link rel="self" href="https://baalkikhaal.github.io/rss-feed-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[v1.7.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0"/>
+        <updated>2021-05-15T09:35:54.000Z</updated>
+        <summary type="html"><![CDATA[Added: templating system. Demo | Source | Docs
+Chore: rendering logic refactoring. Adopting functional paradigm.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is SendGrid? SMTP Email Newsletter Tutorial]]></title>
         <id>609d63e962ab9107fe5aa2ce</id>
@@ -514,16 +525,6 @@ The post WSLg Architecture appeared first on Windows Command Line.]]></summary>
 The post Servicing the Windows Subsystem for Linux (WSL) 2 Linux kernel appeared first on Windows Command Line.]]></summary>
         <author>
             <name>Craig Loewen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Anomalies Strike Back]]></title>
-        <id>http://physicsforme.com/?p=11113</id>
-        <link href="https://physicsforme.com/2021/04/16/the-anomalies-strike-back/"/>
-        <updated>2021-04-16T07:20:53.000Z</updated>
-        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
-        <author>
-            <name>physicsgg</name>
         </author>
     </entry>
 </feed>
