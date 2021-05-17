@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baalkikhaal.github.io/rss-feed-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-16T00:52:12.260Z</updated>
-    <generator>osmosfeed 1.7.0</generator>
+    <updated>2021-05-17T00:48:06.839Z</updated>
+    <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="https://baalkikhaal.github.io/rss-feed-reader/index.html"/>
     <link rel="self" href="https://baalkikhaal.github.io/rss-feed-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[v1.7.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1"/>
+        <updated>2021-05-16T02:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: static files were unnecessarily copied for custom templates.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.7.0]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0</id>
@@ -514,17 +524,6 @@ The post WSLg Architecture appeared first on Windows Command Line.]]></summary>
         <summary type="html"><![CDATA[Last month, I climbed Cerro Zapaleri, the 5648&#8201;m tall summit of which forms the tripoint of the borders of Chile, Argentina, and Bolivia.1 Its location is quite remote, ~105&#8201;km from San Pedro de Atacama, Chile and >40&#8201;km from the nearest &#8230; Continue reading &#8594;]]></summary>
         <author>
             <name>Matthew Petroff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Servicing the Windows Subsystem for Linux (WSL) 2 Linux kernel]]></title>
-        <id>https://devblogs.microsoft.com/commandline/?p=6589</id>
-        <link href="https://devblogs.microsoft.com/commandline/servicing-the-windows-subsystem-for-linux-wsl-2-linux-kernel/"/>
-        <updated>2021-04-16T20:59:42.000Z</updated>
-        <summary type="html"><![CDATA[Note: This blog post is co-authored by the awesome WSL dev Pierre Boulay. Thanks Pierre! 😊
-The post Servicing the Windows Subsystem for Linux (WSL) 2 Linux kernel appeared first on Windows Command Line.]]></summary>
-        <author>
-            <name>Craig Loewen</name>
         </author>
     </entry>
 </feed>
