@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baalkikhaal.github.io/rss-feed-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T00:48:06.839Z</updated>
-    <generator>osmosfeed 1.7.1</generator>
+    <updated>2021-05-18T00:52:14.691Z</updated>
+    <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://baalkikhaal.github.io/rss-feed-reader/index.html"/>
     <link rel="self" href="https://baalkikhaal.github.io/rss-feed-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HTML vs JSX – What&#x27;s the Difference?]]></title>
+        <id>60a2771762ab9107fe5ab383</id>
+        <link href="https://www.freecodecamp.org/news/html-vs-jsx-whats-the-difference/"/>
+        <updated>2021-05-17T21:11:58.000Z</updated>
+        <summary type="html"><![CDATA[HTML vs JSX Hypertext Markup Language (HTML) is the standard language for documents that determine the structure of a web page.  HTML is a very important language in web development. Your code is either in HTML originally or compiles to it so browsers can read it.  JSX, on the other]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The DOM Explained for Beginners – How the Document Object Model Works]]></title>
+        <id>60a16df162ab9107fe5ab01b</id>
+        <link href="https://www.freecodecamp.org/news/dom-explained-everything-you-need-to-know-about-the-document-object-model/"/>
+        <updated>2021-05-17T17:45:50.000Z</updated>
+        <summary type="html"><![CDATA[When I started out as a web developer, people often threw around the term "DOM" in the industry. Every JavaScript tutorial mentioned it, but I didn't know what it meant. Fast forward two years, and now that I know what it's all about, I am going to explain what the]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Lottie Library like a Pro – Lottie Resources for Designers and Developers]]></title>
+        <id>609f552e62ab9107fe5aaba0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-lottie-like-a-pro-resources-for-designers-and-developers/"/>
+        <updated>2021-05-17T16:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Lottie is a library that helps render Adobe After Effects animations natively on mobile and the web. I like using Lottie for animations in my projects because: Creating an animation from scratch can be time-consuming, andGIF files can be double the size of Lottie JSON files (the files containing the]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Tutorial – How to Create NFTs with Hardhat]]></title>
+        <id>609cb90262ab9107fe5aa026</id>
+        <link href="https://www.freecodecamp.org/news/solidity-tutorial-hardhat-nfts/"/>
+        <updated>2021-05-17T14:39:55.000Z</updated>
+        <summary type="html"><![CDATA[I'm a developer who's mostly been writing JavaScript, so the Solidity development environment was a bit hard to learn.  About four months ago, I switched to Hardhat from Truffle. This cool new kid on the block drastically improved my coding experience. So today I want to share it with my]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.7.2]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2"/>
+        <updated>2021-05-17T05:32:19.000Z</updated>
+        <summary type="html"><![CDATA[⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: "16" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example
+Chore: Reorganize to monorepo with npm workspace.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.7.1]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1</id>
@@ -514,16 +565,6 @@ The post WSLg Architecture appeared first on Windows Command Line.]]></summary>
         <summary type="html"><![CDATA[Fermilab&#8217;s Dr. Adam Lyon breaks down the first results from the Muon g-2 experiment in this special public lecture, part of the Fermilab Arts and Lecture Series. On April 7, 2021, the Muon g-2 experiment hosted at the U.S. Department of Energy’s Fermi National Accelerator Laboratory released its long-awaited first results. The results show fundamental [&#8230;]]]></summary>
         <author>
             <name>physicsgg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Climbing Cerro Zapaleri]]></title>
-        <id>https://mpetroff.net/?p=3406</id>
-        <link href="https://mpetroff.net/2021/04/climbing-cerro-zapaleri/"/>
-        <updated>2021-04-17T22:10:18.000Z</updated>
-        <summary type="html"><![CDATA[Last month, I climbed Cerro Zapaleri, the 5648&#8201;m tall summit of which forms the tripoint of the borders of Chile, Argentina, and Bolivia.1 Its location is quite remote, ~105&#8201;km from San Pedro de Atacama, Chile and >40&#8201;km from the nearest &#8230; Continue reading &#8594;]]></summary>
-        <author>
-            <name>Matthew Petroff</name>
         </author>
     </entry>
 </feed>
