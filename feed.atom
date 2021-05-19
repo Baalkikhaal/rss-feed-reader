@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baalkikhaal.github.io/rss-feed-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-18T00:52:14.691Z</updated>
+    <updated>2021-05-19T00:47:27.827Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://baalkikhaal.github.io/rss-feed-reader/index.html"/>
     <link rel="self" href="https://baalkikhaal.github.io/rss-feed-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?]]></title>
+        <id>60a3780f906c5207e3a7db5f</id>
+        <link href="https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/"/>
+        <updated>2021-05-18T17:12:59.000Z</updated>
+        <summary type="html"><![CDATA[If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? "Well, I just bill by the hour and send an invoice every week or month." ...I hear you say.]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding Programs – 101 Ways to Learn to Code for Free]]></title>
+        <id>6068f146d5756f080ba9402d</id>
+        <link href="https://www.freecodecamp.org/news/coding-programs-101-ways-to-learn-to-code-for-free/"/>
+        <updated>2021-05-18T16:50:36.000Z</updated>
+        <summary type="html"><![CDATA[Yes, you can learn to code for free, from the convenience of your own home, and at your own pace. I'm going to show you 101 courses where you can learn computer science and programming for free.  The freeCodeCamp courses are completely free and some of them include a free]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Convert a Keras SavedModel into a Browser-based Web App]]></title>
+        <id>609bea6b62ab9107fe5a9f89</id>
+        <link href="https://www.freecodecamp.org/news/convert-keras-savedmodel-into-browser-based-webapp/"/>
+        <updated>2021-05-18T16:36:22.000Z</updated>
+        <summary type="html"><![CDATA[If you're a Python developer who works with Keras SavedModels, this article is for you.  Perhaps you're not sure how to use SavedModels to leverage the power of machine learning in browser-based web apps. But don't worry – we'll cover all the basic steps you need to get started.  Along with]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redux for Beginners – Learn Redux Basics with Code Examples]]></title>
+        <id>609fc4cc62ab9107fe5aac91</id>
+        <link href="https://www.freecodecamp.org/news/redux-for-beginners/"/>
+        <updated>2021-05-18T16:18:18.000Z</updated>
+        <summary type="html"><![CDATA[Redux can be confusing for beginner React developers to understand. There are a lot of concepts you need to know to use it properly, like reducers, actions, store, pure functions, immutability, and much more. But every React developer should know the basics of how to work with Redux, since industry]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Be a Successful Entrepreneur – A Developer&#x27;s Guide to Startup Strategy and Design]]></title>
+        <id>60685767d5756f080ba93df4</id>
+        <link href="https://www.freecodecamp.org/news/be-a-successful-entrepreneur-developers-guide-to-startup-strategy-and-design/"/>
+        <updated>2021-05-18T16:08:27.000Z</updated>
+        <summary type="html"><![CDATA[According to freeCodeCamp’s 2018 New Coder Survey, 40.3% of participants want to build a business of their own, either as a freelancer or as an entrepreneur.  If you are in that 40.3%, then this article is for you. If you are in the remaining 59.7%, you]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML vs JSX – What&#x27;s the Difference?]]></title>
         <id>60a2771762ab9107fe5ab383</id>
@@ -555,16 +605,6 @@ The post The Initial Preview of GUI app support is now available for the Windows
 The post WSLg Architecture appeared first on Windows Command Line.]]></summary>
         <author>
             <name>Steve Pronovost</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Can Wobbling Muons Tell Us About the Particles in our Universe?]]></title>
-        <id>http://physicsforme.com/?p=11115</id>
-        <link href="https://physicsforme.com/2021/04/18/what-can-wobbling-muons-tell-us-about-the-particles-in-our-universe/"/>
-        <updated>2021-04-18T21:21:31.000Z</updated>
-        <summary type="html"><![CDATA[Fermilab&#8217;s Dr. Adam Lyon breaks down the first results from the Muon g-2 experiment in this special public lecture, part of the Fermilab Arts and Lecture Series. On April 7, 2021, the Muon g-2 experiment hosted at the U.S. Department of Energy’s Fermi National Accelerator Laboratory released its long-awaited first results. The results show fundamental [&#8230;]]]></summary>
-        <author>
-            <name>physicsgg</name>
         </author>
     </entry>
 </feed>
