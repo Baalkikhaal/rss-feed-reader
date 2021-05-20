@@ -146,15 +146,6 @@
           "publishedOn": "2021-04-21T17:07:23.000Z",
           "wordCount": 2643,
           "title": "The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux"
-        },
-        {
-          "id": "https://devblogs.microsoft.com/commandline/?p=6609",
-          "author": "Steve Pronovost",
-          "description": "If you landed on this blog, you’ve probably seen our announcement for GUI applications support in the Windows Subsystem for Linux being available to Windows Insiders and looking for more details on how WSLg was built. If so, you’ve come to the right place!\nThe post WSLg Architecture appeared first on Windows Command Line.",
-          "link": "https://devblogs.microsoft.com/commandline/wslg-architecture/",
-          "publishedOn": "2021-04-20T04:06:05.000Z",
-          "wordCount": 5340,
-          "title": "WSLg Architecture"
         }
       ]
     },
@@ -169,6 +160,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60a42386906c5207e3a7dfe2",
+          "author": "",
+          "description": "The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.",
+          "link": "https://www.freecodecamp.org/news/what-is-web3/",
+          "publishedOn": "2021-05-19T21:09:01.000Z",
+          "wordCount": 2086,
+          "title": "What is Web3? The Decentralized Internet of the Future Explained"
+        },
+        {
+          "id": "60a469ec906c5207e3a7e1b9",
+          "author": "",
+          "description": "Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second",
+          "link": "https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/",
+          "publishedOn": "2021-05-19T17:30:08.000Z",
+          "wordCount": 1981,
+          "title": "How to Optimize for Change in Software Development"
+        },
+        {
+          "id": "60a53182906c5207e3a7e588",
+          "author": "",
+          "description": "Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really",
+          "link": "https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/",
+          "publishedOn": "2021-05-18T21:04:00.000Z",
+          "wordCount": 2258,
+          "title": "How to Break into Ethereum, Crypto, and Web3 as a Developer"
+        },
         {
           "id": "60a3780f906c5207e3a7db5f",
           "author": "",
@@ -222,6 +240,15 @@
           "publishedOn": "2021-05-17T21:11:58.000Z",
           "wordCount": 1169,
           "title": "HTML vs JSX – What&#x27;s the Difference?"
+        },
+        {
+          "id": "60a536e1906c5207e3a7e6b5",
+          "author": "",
+          "description": "In this article, you'll learn how to build full stack dApps with React, Ethers.js, Solidity, and Hardhat. You can find the code for this project here. The video course for this tutorial is here. I recently joined Edge & Node as a Developer Relations Engineer and have been diving",
+          "link": "https://www.freecodecamp.org/news/full-stack-ethereum-development/",
+          "publishedOn": "2021-05-17T20:45:00.000Z",
+          "wordCount": 4218,
+          "title": "The Complete Guide to Full Stack Ethereum Development"
         },
         {
           "id": "60a16df162ab9107fe5ab01b",

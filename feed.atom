@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baalkikhaal.github.io/rss-feed-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T00:47:27.827Z</updated>
+    <updated>2021-05-20T00:44:27.518Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://baalkikhaal.github.io/rss-feed-reader/index.html"/>
     <link rel="self" href="https://baalkikhaal.github.io/rss-feed-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Web3? The Decentralized Internet of the Future Explained]]></title>
+        <id>60a42386906c5207e3a7dfe2</id>
+        <link href="https://www.freecodecamp.org/news/what-is-web3/"/>
+        <updated>2021-05-19T21:09:01.000Z</updated>
+        <summary type="html"><![CDATA[The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize for Change in Software Development]]></title>
+        <id>60a469ec906c5207e3a7e1b9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-optimize-for-change-software-development/"/>
+        <updated>2021-05-19T17:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Break into Ethereum, Crypto, and Web3 as a Developer]]></title>
+        <id>60a53182906c5207e3a7e588</id>
+        <link href="https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/"/>
+        <updated>2021-05-18T21:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?]]></title>
         <id>60a3780f906c5207e3a7db5f</id>
@@ -62,6 +92,16 @@
         <link href="https://www.freecodecamp.org/news/html-vs-jsx-whats-the-difference/"/>
         <updated>2021-05-17T21:11:58.000Z</updated>
         <summary type="html"><![CDATA[HTML vs JSX Hypertext Markup Language (HTML) is the standard language for documents that determine the structure of a web page.  HTML is a very important language in web development. Your code is either in HTML originally or compiles to it so browsers can read it.  JSX, on the other]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Complete Guide to Full Stack Ethereum Development]]></title>
+        <id>60a536e1906c5207e3a7e6b5</id>
+        <link href="https://www.freecodecamp.org/news/full-stack-ethereum-development/"/>
+        <updated>2021-05-17T20:45:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to build full stack dApps with React, Ethers.js, Solidity, and Hardhat. You can find the code for this project here. The video course for this tutorial is here. I recently joined Edge & Node as a Developer Relations Engineer and have been diving]]></summary>
         <author>
             <name/>
         </author>
@@ -594,17 +634,6 @@ The post Windows Package Manager v0.3 Preview appeared first on Windows Command 
 The post The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux appeared first on Windows Command Line.]]></summary>
         <author>
             <name>Craig Loewen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WSLg Architecture]]></title>
-        <id>https://devblogs.microsoft.com/commandline/?p=6609</id>
-        <link href="https://devblogs.microsoft.com/commandline/wslg-architecture/"/>
-        <updated>2021-04-20T04:06:05.000Z</updated>
-        <summary type="html"><![CDATA[If you landed on this blog, you’ve probably seen our announcement for GUI applications support in the Windows Subsystem for Linux being available to Windows Insiders and looking for more details on how WSLg was built. If so, you’ve come to the right place!
-The post WSLg Architecture appeared first on Windows Command Line.]]></summary>
-        <author>
-            <name>Steve Pronovost</name>
         </author>
     </entry>
 </feed>
