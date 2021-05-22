@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baalkikhaal.github.io/rss-feed-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T00:49:13.374Z</updated>
+    <updated>2021-05-22T00:48:20.342Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://baalkikhaal.github.io/rss-feed-reader/index.html"/>
     <link rel="self" href="https://baalkikhaal.github.io/rss-feed-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The JavaScript Array Handbook – JS Array Methods Explained with Examples]]></title>
+        <id>6098ce302cd0545b5e944d0b</id>
+        <link href="https://www.freecodecamp.org/news/the-javascript-array-handbook/"/>
+        <updated>2021-05-21T15:33:45.000Z</updated>
+        <summary type="html"><![CDATA[In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Angular 11 Tutorial: Code a Project from Scratch]]></title>
         <id>60a6b3ab906c5207e3a7f5fa</id>
@@ -673,17 +683,6 @@ This article has many interactive demonstrations which are best seen .]]></summa
 The post Windows Package Manager v0.3 Preview appeared first on Windows Command Line.]]></summary>
         <author>
             <name>Demitrius Nelon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux]]></title>
-        <id>https://devblogs.microsoft.com/commandline/?p=6619</id>
-        <link href="https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/"/>
-        <updated>2021-04-21T17:07:23.000Z</updated>
-        <summary type="html"><![CDATA[A year ago at BUILD 2020 we introduced our goal to bring Linux GUI applications to the Windows Subsystem for Linux (WSL) to run Linux GUI applications. We are proud to announce the first preview of this highly anticipated and open source feature!
-The post The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux appeared first on Windows Command Line.]]></summary>
-        <author>
-            <name>Craig Loewen</name>
         </author>
     </entry>
 </feed>
