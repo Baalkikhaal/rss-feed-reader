@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baalkikhaal.github.io/rss-feed-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T00:48:20.342Z</updated>
+    <updated>2021-05-23T00:54:23.191Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://baalkikhaal.github.io/rss-feed-reader/index.html"/>
     <link rel="self" href="https://baalkikhaal.github.io/rss-feed-reader/feed.atom"/>
@@ -672,17 +672,6 @@ This article has many interactive demonstrations which are best seen .]]></summa
         <summary type="html"><![CDATA[Visit the post for more.]]></summary>
         <author>
             <name>physicsgg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Package Manager v0.3 Preview]]></title>
-        <id>https://devblogs.microsoft.com/commandline/?p=6636</id>
-        <link href="https://devblogs.microsoft.com/commandline/windows-package-manager-preview-v0-3/"/>
-        <updated>2021-04-22T21:15:09.000Z</updated>
-        <summary type="html"><![CDATA[We have been hard at work building new experimental features for the Windows Package Manager. We have just released the Windows Package Manager v0.3 Preview. I would like to share the first major feature to exit experimental status. I also have the privilege of announcing support for Group Policy.
-The post Windows Package Manager v0.3 Preview appeared first on Windows Command Line.]]></summary>
-        <author>
-            <name>Demitrius Nelon</name>
         </author>
     </entry>
 </feed>
