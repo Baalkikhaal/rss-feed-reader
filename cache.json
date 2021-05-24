@@ -6,6 +6,24 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1",
+          "author": null,
+          "description": "Fixed: UnhandledPromiseRejectionWarning: Error: At least one option must be a string",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1",
+          "publishedOn": "2021-05-23T05:40:12.000Z",
+          "wordCount": 282,
+          "title": "v1.8.1"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0",
+          "author": null,
+          "description": "Changed: Smart summary truncation. When there is no dedicated summary (only Atom feed has it, and many sites don't use it) from the source, we check if the content/description (Both Atom and RSS) field is long enough to be full text. If so, it will be truncated into a \"pseudo\" summary. If not, we assume the source used the content field as summary, and it will be displayed in full length.\nThank you: @LooperXX.",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0",
+          "publishedOn": "2021-05-23T05:12:08.000Z",
+          "wordCount": 341,
+          "title": "v1.8.0"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2",
           "author": null,
           "description": "⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: \"16\" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example\nChore: Reorganize to monorepo with npm workspace.",
@@ -602,24 +620,6 @@
           "publishedOn": "2021-04-28T13:56:26.000Z",
           "wordCount": 683,
           "title": "Testing GR with Shadows and Quasinormal Modes"
-        },
-        {
-          "id": "http://physicsforme.com/?p=11121",
-          "author": "physicsgg",
-          "description": "It has been a difficult week for two COVID-19 vaccines. On 13 April, US regulators urged health-care providers to temporarily stop using a vaccine made by Johnson &#38; Johnson (J&#38;J) of New Brunswick, New Jersey, because of six suspected cases of unusual blood clotting among nearly seven million vaccine recipients. The move came after European [&#8230;]",
-          "link": "https://physicsforme.com/2021/04/24/covid-vaccines-and-blood-clots-five-key-questions/",
-          "publishedOn": "2021-04-24T10:49:29.000Z",
-          "wordCount": 785,
-          "title": "COVID vaccines and blood clots: five key questions"
-        },
-        {
-          "id": "http://physicsforme.com/?p=11118",
-          "author": "physicsgg",
-          "description": "Visit the post for more.",
-          "link": "https://physicsforme.com/2021/04/23/juan-maldacena-black-holes-hawking-radiation-and-the-nature-of-spacetime/",
-          "publishedOn": "2021-04-23T14:27:30.000Z",
-          "wordCount": 707,
-          "title": "Juan Maldacena: Black Holes, Hawking Radiation and the Nature of Spacetime"
         }
       ]
     },
@@ -630,5 +630,5 @@
       "articles": []
     }
   ],
-  "cliVersion": "1.7.2"
+  "cliVersion": "1.8.1"
 }
