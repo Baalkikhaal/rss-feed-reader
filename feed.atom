@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baalkikhaal.github.io/rss-feed-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T00:51:44.614Z</updated>
+    <updated>2021-05-25T00:50:58.571Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://baalkikhaal.github.io/rss-feed-reader/index.html"/>
     <link rel="self" href="https://baalkikhaal.github.io/rss-feed-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Node Environment Variables with a DotEnv File for Node.js and npm]]></title>
+        <id>60abc6d011ffb70827ef630f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-dotenv-file-for-node-js-and-npm/"/>
+        <updated>2021-05-25T00:48:45.000Z</updated>
+        <summary type="html"><![CDATA[Environment variables are variables that are set outside of a program, often through a cloud provider or operating system.  In Node, environment variables are a great way to securely and conveniently configure things that don't change often, like URLs, authentication keys, and passwords. How to Create Environment VariablesEnvironment variables are]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep Calm and Hack The Box – Nibbles]]></title>
+        <id>60626dc29618b008528a9589</id>
+        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles-2/"/>
+        <updated>2021-05-25T00:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Walkthrough for Hack The Box Nibbles machine]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Small and Sustainable Habits to Get Your First Dev Job]]></title>
+        <id>60aaba5911ffb70827ef5ffc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-small-sustainable-habits-to-get-your-first-dev-job/"/>
+        <updated>2021-05-24T21:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Achieving a big goal like transitioning into a new career can be extremely challenging and overwhelming. The amount of information isn't the problem. We have access to more information than we ever have. The problem is knowing how to effectively execute on the information available to us. The more I]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use CSS Media Queries to Create Responsive Websites]]></title>
+        <id>60ac07ec11ffb70827ef66e4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites/"/>
+        <updated>2021-05-24T20:36:07.000Z</updated>
+        <summary type="html"><![CDATA[CSS Media Queries allow you to create responsive websites that look good on all screen sizes, from desktop to mobile. We just released a course on the freeCodeCamp channel that will teach you how to create CSS Media Queries. After learning the basics, you will learn how to use media]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Generate a Code Coverage Report with CodeCov and GitHub Actions]]></title>
+        <id>60aa161211ffb70827ef5f2c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-generate-code-coverage-report-with-codecov-and-github-actions/"/>
+        <updated>2021-05-24T19:40:36.000Z</updated>
+        <summary type="html"><![CDATA[Software testing is an important part of the software development process. You run tests at different stages of the software development life cycle, and you'll want to make sure that you have good test coverage.  Here are some key reasons for writing software tests:  Testing prevents you from introducing breaking]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best No-Code Tools for Developers in 2021]]></title>
+        <id>60a5248c906c5207e3a7e54b</id>
+        <link href="https://www.freecodecamp.org/news/best-no-code-tools-for-developers/"/>
+        <updated>2021-05-24T14:54:42.000Z</updated>
+        <summary type="html"><![CDATA[No-code tools let people across the world build different products and applications without writing code.   Before no-code tools, building simple websites or mobile applications took weeks or months and only experienced software developers could do it.  But that's not the case anymore. Now, you can spin up blogs, websites, and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.8.1]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1</id>

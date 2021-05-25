@@ -160,6 +160,60 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60abc6d011ffb70827ef630f",
+          "author": null,
+          "description": "Environment variables are variables that are set outside of a program, often through a cloud provider or operating system.  In Node, environment variables are a great way to securely and conveniently configure things that don't change often, like URLs, authentication keys, and passwords. How to Create Environment VariablesEnvironment variables are",
+          "link": "https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-dotenv-file-for-node-js-and-npm/",
+          "publishedOn": "2021-05-25T00:48:45.000Z",
+          "wordCount": 710,
+          "title": "How to Use Node Environment Variables with a DotEnv File for Node.js and npm"
+        },
+        {
+          "id": "60626dc29618b008528a9589",
+          "author": null,
+          "description": "Walkthrough for Hack The Box Nibbles machine",
+          "link": "https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles-2/",
+          "publishedOn": "2021-05-25T00:20:22.000Z",
+          "wordCount": 1905,
+          "title": "Keep Calm and Hack The Box – Nibbles"
+        },
+        {
+          "id": "60aaba5911ffb70827ef5ffc",
+          "author": null,
+          "description": "Achieving a big goal like transitioning into a new career can be extremely challenging and overwhelming. The amount of information isn't the problem. We have access to more information than we ever have. The problem is knowing how to effectively execute on the information available to us. The more I",
+          "link": "https://www.freecodecamp.org/news/how-to-use-small-sustainable-habits-to-get-your-first-dev-job/",
+          "publishedOn": "2021-05-24T21:30:43.000Z",
+          "wordCount": 1835,
+          "title": "How to Use Small and Sustainable Habits to Get Your First Dev Job"
+        },
+        {
+          "id": "60ac07ec11ffb70827ef66e4",
+          "author": null,
+          "description": "CSS Media Queries allow you to create responsive websites that look good on all screen sizes, from desktop to mobile. We just released a course on the freeCodeCamp channel that will teach you how to create CSS Media Queries. After learning the basics, you will learn how to use media",
+          "link": "https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites/",
+          "publishedOn": "2021-05-24T20:36:07.000Z",
+          "wordCount": 319,
+          "title": "How to Use CSS Media Queries to Create Responsive Websites"
+        },
+        {
+          "id": "60aa161211ffb70827ef5f2c",
+          "author": null,
+          "description": "Software testing is an important part of the software development process. You run tests at different stages of the software development life cycle, and you'll want to make sure that you have good test coverage.  Here are some key reasons for writing software tests:  Testing prevents you from introducing breaking",
+          "link": "https://www.freecodecamp.org/news/how-to-generate-code-coverage-report-with-codecov-and-github-actions/",
+          "publishedOn": "2021-05-24T19:40:36.000Z",
+          "wordCount": 2263,
+          "title": "How to Generate a Code Coverage Report with CodeCov and GitHub Actions"
+        },
+        {
+          "id": "60a5248c906c5207e3a7e54b",
+          "author": null,
+          "description": "No-code tools let people across the world build different products and applications without writing code.   Before no-code tools, building simple websites or mobile applications took weeks or months and only experienced software developers could do it.  But that's not the case anymore. Now, you can spin up blogs, websites, and",
+          "link": "https://www.freecodecamp.org/news/best-no-code-tools-for-developers/",
+          "publishedOn": "2021-05-24T14:54:42.000Z",
+          "wordCount": 2493,
+          "title": "The Best No-Code Tools for Developers in 2021"
+        },
+        {
           "id": "6098ce302cd0545b5e944d0b",
           "author": "",
           "description": "In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll",
