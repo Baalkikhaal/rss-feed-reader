@@ -2,16 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baalkikhaal.github.io/rss-feed-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T00:50:58.571Z</updated>
+    <updated>2021-05-26T01:01:10.383Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://baalkikhaal.github.io/rss-feed-reader/index.html"/>
     <link rel="self" href="https://baalkikhaal.github.io/rss-feed-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Keep Calm and Hack The Box – Valentine]]></title>
+        <id>60ac3a2711ffb70827ef6aec</id>
+        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-valentine/"/>
+        <updated>2021-05-25T22:43:11.000Z</updated>
+        <summary type="html"><![CDATA[Walkthrough for Hack The Box Valentine machine]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use React-Hook-Form to Build Beautiful Forms with Chakra UI]]></title>
+        <id>60a93b0011ffb70827ef5b0d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-react-hook-form-with-chakra-ui/"/>
+        <updated>2021-05-25T20:26:38.000Z</updated>
+        <summary type="html"><![CDATA[In HTML, it’s the default behavior for forms to redirect to a new page whenever they're submitted. So in order to provide dynamic functionality, React uses a strategy called controlled components. If you have recently gone through a React course, you probably didn't like this part, because there are]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Design Best Practices for New Developers – How to Create Portfolio-Worthy Work]]></title>
+        <id>608706aedd38b9088c2c012c</id>
+        <link href="https://www.freecodecamp.org/news/web-design-best-practices-for-new-developers/"/>
+        <updated>2021-05-25T16:51:37.000Z</updated>
+        <summary type="html"><![CDATA[If you're a beginner developer, it can be difficult to find ways to use your limited knowledge to support yourself. And at the same time, you won't be able to hone your skills if you aren't using them full time.  It's a precarious spot that I remember being in when]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Terminal Preview 1.9 Release]]></title>
+        <id>https://devblogs.microsoft.com/commandline/?p=6739</id>
+        <link href="https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-9-release/"/>
+        <updated>2021-05-25T14:56:04.000Z</updated>
+        <summary type="html"><![CDATA[Happy Microsoft Build 2021 and happy 2nd birthday to Windows Terminal! This release introduces version 1.9 to Windows Terminal Preview and migrates Windows Terminal to version 1.8. As always, you can install both builds from the Microsoft Store as well as from the GitHub releases page.
+The post Windows Terminal Preview 1.9 Release appeared first on Windows Command Line.]]></summary>
+        <author>
+            <name>Kayla Cinnamon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Node Environment Variables with a DotEnv File for Node.js and npm]]></title>
         <id>60abc6d011ffb70827ef630f</id>
         <link href="https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-dotenv-file-for-node-js-and-npm/"/>
         <updated>2021-05-25T00:48:45.000Z</updated>
         <summary type="html"><![CDATA[Environment variables are variables that are set outside of a program, often through a cloud provider or operating system.  In Node, environment variables are a great way to securely and conveniently configure things that don't change often, like URLs, authentication keys, and passwords. How to Create Environment VariablesEnvironment variables are]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep Calm and Hack The Box – Nibbles]]></title>
+        <id>60626dc29618b008528a9589</id>
+        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles/"/>
+        <updated>2021-05-25T00:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Walkthrough for Hack The Box Nibbles machine]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
