@@ -6,6 +6,15 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0",
+          "author": null,
+          "description": "Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is \"experimental\" due to these caveats:\n\nThis feature is currently only available through custom template.\niTunes has no strict format requirement for duration. The unit is most likely seconds but can be \"hh:mm:ss\" or \"mm:ss\" for some sources. A future version may expose a human readable string to the template.\nNo image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.\nYou can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.\nFixed: the articles in template data were not sorted.\nThank you @Zenigata",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0",
+          "publishedOn": "2021-05-26T06:02:55.000Z",
+          "wordCount": 417,
+          "title": "v1.9.0"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1",
           "author": null,
           "description": "Fixed: UnhandledPromiseRejectionWarning: Error: At least one option must be a string",
@@ -148,6 +157,15 @@
       "siteUrl": "https://devblogs.microsoft.com/commandline",
       "articles": [
         {
+          "id": "https://devblogs.microsoft.com/commandline/?p=6715",
+          "author": "Demitrius Nelon",
+          "description": "We started a journey to build a native package manager for Windows 10 when we announced the Windows Package Manager preview at Microsoft Build 2020. We released the project on GitHub as an open-source collaborative effort and the community engagement has been wonderful to experience!\nThe post Windows Package Manager 1.0 appeared first on Windows Command Line.",
+          "link": "https://devblogs.microsoft.com/commandline/windows-package-manager-1-0/",
+          "publishedOn": "2021-05-26T16:00:23.000Z",
+          "wordCount": 1268,
+          "title": "Windows Package Manager 1.0"
+        },
+        {
           "id": "https://devblogs.microsoft.com/commandline/?p=6739",
           "author": "Kayla Cinnamon",
           "description": "Happy Microsoft Build 2021 and happy 2nd birthday to Windows Terminal! This release introduces version 1.9 to Windows Terminal Preview and migrates Windows Terminal to version 1.8. As always, you can install both builds from the Microsoft Store as well as from the GitHub releases page.\nThe post Windows Terminal Preview 1.9 Release appeared first on Windows Command Line.",
@@ -169,6 +187,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60a44b9f906c5207e3a7e098",
+          "author": null,
+          "description": "In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video",
+          "link": "https://www.freecodecamp.org/news/giphy-api-tutorial/",
+          "publishedOn": "2021-05-26T21:44:01.000Z",
+          "wordCount": 2014,
+          "title": "Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS"
+        },
+        {
+          "id": "60abe7fb11ffb70827ef63a6",
+          "author": null,
+          "description": "If you're a developer, you've probably come across the term \"open source.\" If you've ever wondered what it's all about and how to contribute, you are in exactly the right place.  I put aside all my fears about how and what to contribute during Hacktoberfest 2020, and made",
+          "link": "https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/",
+          "publishedOn": "2021-05-26T18:01:00.000Z",
+          "wordCount": 2370,
+          "title": "How to Contribute to Open Source  Projects – A Beginner&#x27;s Guide"
+        },
+        {
+          "id": "606f4f5fd5756f080ba96b65",
+          "author": null,
+          "description": "In this article, I'll give you a brief overview of the configuration syntax of Terraform.  Terraform's docs provide the most comprehensive look at its syntax. But this article should serve as a condensed quick start introduction that'll give new users a simplified overview. We'll focus on the basic structures without",
+          "link": "https://www.freecodecamp.org/news/terraform-syntax-for-beginners/",
+          "publishedOn": "2021-05-26T18:00:52.000Z",
+          "wordCount": 3782,
+          "title": "Learn Basic Terraform Syntax in 20 minutes"
+        },
+        {
+          "id": "60abc59d11ffb70827ef6304",
+          "author": null,
+          "description": "In this article, I'll walk you through how to set up your own GraphQL API using PHP and Laravel. Two years ago, I started working professionally as a backend developer. And I was very intimidated by all the technology I didn't yet know. Words like Docker, Kubernetes, and GraphQL seemed",
+          "link": "https://www.freecodecamp.org/news/build-a-graphql-api-using-laravel/",
+          "publishedOn": "2021-05-26T16:34:32.000Z",
+          "wordCount": 3054,
+          "title": "How to Build a GraphQL API Using Laravel"
+        },
+        {
+          "id": "60aced0011ffb70827ef6d96",
+          "author": null,
+          "description": "In this video course I show you how to build three popular games using the latest game development library for JavaScript called Kaboom.js. This course is exciting for two reasons: First of all, I am going to be introducing a new technology designed especially for game development in JavaScript.",
+          "link": "https://www.freecodecamp.org/news/how-to-build-mario-zelda-and-space-invaders-with-kaboom-js/",
+          "publishedOn": "2021-05-26T14:12:27.000Z",
+          "wordCount": 1273,
+          "title": "How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js"
+        },
         {
           "id": "60ac3a2711ffb70827ef6aec",
           "author": null,
@@ -681,6 +744,15 @@
       "siteUrl": "https://devblogs.microsoft.com/typescript",
       "articles": [
         {
+          "id": "https://devblogs.microsoft.com/typescript/?p=2984",
+          "author": "Daniel Rosenwasser",
+          "description": "Today we’re excited to announce the availability of TypeScript 4.3!\nThe post Announcing TypeScript 4.3 appeared first on TypeScript.",
+          "link": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-3/",
+          "publishedOn": "2021-05-26T17:37:31.000Z",
+          "wordCount": 5233,
+          "title": "Announcing TypeScript 4.3"
+        },
+        {
           "id": "https://devblogs.microsoft.com/typescript/?p=2970",
           "author": "Daniel Rosenwasser",
           "description": "Today we&#8217;re excited to announce our Release Candidate (RC) of TypeScript 4.3! Between now and the stable release of TypeScript 4.2, we expect no further changes apart from critical bug fixes.\nThe post Announcing TypeScript 4.3 RC appeared first on TypeScript.",
@@ -713,6 +785,15 @@
       "siteUrl": "https://physicsforme.com",
       "articles": [
         {
+          "id": "http://physicsforme.com/?p=11128",
+          "author": "physicsgg",
+          "description": "The Muon g-2 experiment announced one of the most tantalizing physics measurements in over a decade. It is possible that the measurement tells us that our theoretical calculation is missing some new physical phenomena. It is also possible that a new theoretical prediction points to the possibility that measurement and prediction basically agree. In this […]",
+          "link": "https://physicsforme.com/2021/05/26/what-does-the-muon-g-2-experiment-tell-us/",
+          "publishedOn": "2021-05-26T21:16:34.000Z",
+          "wordCount": 757,
+          "title": "What does the Muon g-2 experiment tell us?"
+        },
+        {
           "id": "http://physicsforme.com/?p=11125",
           "author": "physicsgg",
           "description": "Visit the post for more.",
@@ -730,5 +811,5 @@
       "articles": []
     }
   ],
-  "cliVersion": "1.8.1"
+  "cliVersion": "1.9.0"
 }
