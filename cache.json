@@ -188,6 +188,33 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60acf28e11ffb70827ef6dd9",
+          "author": null,
+          "description": "Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up making $100,000 a year as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary,",
+          "link": "https://www.freecodecamp.org/news/my-developer-journey-how-i-went-from-1000-a-year-to-100000-as-a-dev/",
+          "publishedOn": "2021-05-28T22:58:18.000Z",
+          "wordCount": 2775,
+          "title": "My Developer Journey – How I Went from Making $1,000 to $100,000 a Year"
+        },
+        {
+          "id": "60b08d8811ffb70827ef8c7b",
+          "author": null,
+          "description": "If you've been following the news lately, you may have noticed a worrisome tech trend. The frequency and severity of cybersecurity attacks are exploding.  We've seen news of a sprawling hack involving the SolarWinds management platform. That attack may have compromised the systems of over 18,000 SolarWinds customers.  Then,",
+          "link": "https://www.freecodecamp.org/news/how-to-secure-your-android-app/",
+          "publishedOn": "2021-05-28T16:01:05.000Z",
+          "wordCount": 1568,
+          "title": "How to Secure Your Android App – Four Security Best Practices Every Android Dev Should Know"
+        },
+        {
+          "id": "60b0de2211ffb70827ef8d7c",
+          "author": null,
+          "description": "More and more applications are using computer vision these days. We just published a full course on the freeCodeCamp.org YouTube channel that will help you learn advanced computer vision using Python. You will learn state of the art computer vision techniques by building five projects with libraries such as",
+          "link": "https://www.freecodecamp.org/news/advanced-computer-vision-with-python/",
+          "publishedOn": "2021-05-28T12:26:38.000Z",
+          "wordCount": 368,
+          "title": "Advanced Computer Vision with Python"
+        },
+        {
           "id": "60af931811ffb70827ef85d3",
           "author": null,
           "description": "When you're training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating",
@@ -785,17 +812,7 @@
       "title": "Bartosz Ciechanowski",
       "feedUrl": "https://ciechanow.ski/atom.xml",
       "siteUrl": "https://ciechanow.ski/",
-      "articles": [
-        {
-          "id": "https://ciechanow.ski/internal-combustion-engine/",
-          "author": null,
-          "description": "The invention of the internal combustion engine in the 19th century has revolutionized transportation over land, water, and air. Despite their omnipresence in modern day, the operation of an engine may be cryptic. Over the course of this article I&rsquo;d like to explain the functionality of all the basic engine parts shown in the demonstration below. You can drag it around to see it from other angles:\n\nThis article has many interactive demonstrations which are best seen .",
-          "link": "https://ciechanow.ski/internal-combustion-engine/",
-          "publishedOn": "2021-04-29T12:00:00.000Z",
-          "wordCount": 5898,
-          "title": "Internal Combustion Engine"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "physics4me",
@@ -810,15 +827,6 @@
           "publishedOn": "2021-05-26T21:16:34.000Z",
           "wordCount": 757,
           "title": "What does the Muon g-2 experiment tell us?"
-        },
-        {
-          "id": "http://physicsforme.com/?p=11125",
-          "author": "physicsgg",
-          "description": "Visit the post for more.",
-          "link": "https://physicsforme.com/2021/04/28/testing-gr-with-shadows-and-quasinormal-modes/",
-          "publishedOn": "2021-04-28T13:56:26.000Z",
-          "wordCount": 683,
-          "title": "Testing GR with Shadows and Quasinormal Modes"
         }
       ]
     },
