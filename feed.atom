@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baalkikhaal.github.io/rss-feed-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T01:52:35.653Z</updated>
+    <updated>2021-06-04T01:36:03.545Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://baalkikhaal.github.io/rss-feed-reader/index.html"/>
     <link rel="self" href="https://baalkikhaal.github.io/rss-feed-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Tutorial – How to Set Up a Front End Development Project]]></title>
+        <id>60b11ff811ffb70827ef8f94</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/"/>
+        <updated>2021-06-03T21:44:03.000Z</updated>
+        <summary type="html"><![CDATA[Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them]]></title>
+        <id>60afd68611ffb70827ef86d8</id>
+        <link href="https://www.freecodecamp.org/news/schofields-laws-of-computing/"/>
+        <updated>2021-06-03T18:46:12.000Z</updated>
+        <summary type="html"><![CDATA[Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a British journalist who wrote for The Guardian. During that time, he wrote three particular articles called "Schofield's Laws of Computing". Jack didn't create these]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lists in Python – A Comprehensive Guide]]></title>
+        <id>60b7c02cacb62507dd1d7b80</id>
+        <link href="https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/"/>
+        <updated>2021-06-03T18:42:20.000Z</updated>
+        <summary type="html"><![CDATA[Let’s suppose you’re planning to visit your neighborhood store to stock up on essentials. What is the first thing you’d do?  Have the answer already? Yes, you'd probably write down a shopping list! Python also has a built-in data structure called List that’s very similar to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Hackintosh - Install MacOS Big Sur on a PC Using OpenCore]]></title>
+        <id>60affbe411ffb70827ef8951</id>
+        <link href="https://www.freecodecamp.org/news/build-a-hackintosh/"/>
+        <updated>2021-06-03T18:07:17.000Z</updated>
+        <summary type="html"><![CDATA[A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serverless vs Fully Managed Services: What&#x27;s the Difference?]]></title>
+        <id>60aa708711ffb70827ef5f4b</id>
+        <link href="https://www.freecodecamp.org/news/serverless-fully-managed-service-difference/"/>
+        <updated>2021-06-03T16:51:37.000Z</updated>
+        <summary type="html"><![CDATA[If you're new to cloud technologies, you might be confused about the difference between serverless technologies and managed services.  So in this article you'll learn what these terms mean and what the main differences are.    What Are Managed Services? A managed service let the end-user focus on using a service]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cipher Definition – What is a Block Cipher and How Does it Work to Protect Your Data?]]></title>
+        <id>5fff3d3098be260817e495bd</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-block-cipher/"/>
+        <updated>2021-06-03T16:21:19.000Z</updated>
+        <summary type="html"><![CDATA[Cryptography is the science of using codes and ciphers to protect messages. And encryption involves encoding messages so that only the intended recipient can understand the meaning of the message. It's often used to protect data in transit. Encryption is a two way function – that is, you need to be]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Commit Signing in Git?]]></title>
         <id>60afce3011ffb70827ef869c</id>
@@ -936,109 +996,6 @@ Chore: Excluded testing files from repo.]]></summary>
         <link href="https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/"/>
         <updated>2021-05-05T21:11:40.000Z</updated>
         <summary type="html"><![CDATA[OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.3.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1"/>
-        <updated>2021-05-05T05:19:57.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Avoid crwalers.
-Fixed: Error logging from XML parser.
-Fixed: Typo in docs.
-Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.3.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0"/>
-        <updated>2021-05-05T05:19:26.000Z</updated>
-        <summary type="html"><![CDATA[Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.
-Added: Documentation for osmosfeed.yaml.
-Fixed: More intuitive logging during build.
-Chore: Refactored parameter passing for enrich step.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.2.3]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3"/>
-        <updated>2021-05-05T05:19:03.000Z</updated>
-        <summary type="html"><![CDATA[Changed: favicon update.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.2.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1"/>
-        <updated>2021-05-05T05:18:52.000Z</updated>
-        <summary type="html"><![CDATA[Added: Display CLI version in footer.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.1.6]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.6</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.6"/>
-        <updated>2021-05-05T05:18:40.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: The output website didn't have favicon.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.1.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.1"/>
-        <updated>2021-05-05T05:18:27.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Item description didn't use the description property from feed item.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.1.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.0"/>
-        <updated>2021-05-05T05:17:37.000Z</updated>
-        <summary type="html"><![CDATA[Added: MIT license
-Added: cache.json is stamped with the version of the builder. This allows future builder with breaking change to ignore incompatible cache.
-Added: Feed source retry on fetch error (3 times total, 15 seconds timeout).
-Added: Item enrichment retry on fetch error (3 times total, 15 seconds timeout).
-Added: Console log for cache restore and update behavior.
-Added: npx command: npx osmosfeed
-Changed: Improved console log that breaks down rendered item count into "new" and "cached".
-Fixed: Item…]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js Async Await Tutorial – With Asynchronous JavaScript Examples]]></title>
-        <id>609011fd8eb3fb07cf09a034</id>
-        <link href="https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/"/>
-        <updated>2021-05-04T16:07:17.000Z</updated>
-        <summary type="html"><![CDATA[A complete guide to Node.js async await]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)]]></title>
-        <id>608f5ad48eb3fb07cf099ddb</id>
-        <link href="https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/"/>
-        <updated>2021-05-04T15:33:12.000Z</updated>
-        <summary type="html"><![CDATA[To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual]]></summary>
         <author>
             <name/>
         </author>
