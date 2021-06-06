@@ -879,33 +879,6 @@
           "publishedOn": "2021-05-07T16:59:53.000Z",
           "wordCount": 1278,
           "title": "Recursion Might Seem Scary – But it Doesn&#x27;t Have to Be"
-        },
-        {
-          "id": "609409c201fc34080ef81f97",
-          "author": "",
-          "description": "Here is a simple and practical example what it means to \"lift state up\" in React, and how it can help you build your applications. Lifting state up is a common pattern that is essential for React developers to know. It helps you avoid more complex (and often unnecessary) patterns",
-          "link": "https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/",
-          "publishedOn": "2021-05-06T21:41:34.000Z",
-          "wordCount": 1349,
-          "title": "What Is &quot;Lifting State Up&quot; in React?"
-        },
-        {
-          "id": "609415eb2cd0545b5e943534",
-          "author": "",
-          "description": "Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. They can be super helpful for web developers. We just published a crash course that will teach you how to use Chrome DevTools to improve your productivity as a web developer. You will learn",
-          "link": "https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/",
-          "publishedOn": "2021-05-06T16:26:08.000Z",
-          "wordCount": 426,
-          "title": "Learn How to Use the Chrome DevTools to Troubleshoot Websites"
-        },
-        {
-          "id": "60939bde01fc34080ef81a19",
-          "author": "",
-          "description": "If you're coming from Java, C++, or other object-oriented languages, chances are that you've never come across optional types or \"optionals\". And you might be quite surprised to know that such a concept exists in Swift. Optionals are a fundamental topic that you need to thoroughly understand to code in",
-          "link": "https://www.freecodecamp.org/news/optional-types-in-swift/",
-          "publishedOn": "2021-05-06T16:06:35.000Z",
-          "wordCount": 1775,
-          "title": "Optional Types in Swift – How to Use and Unwrap Optionals"
         }
       ]
     },
