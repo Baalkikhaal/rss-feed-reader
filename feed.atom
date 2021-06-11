@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baalkikhaal.github.io/rss-feed-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T00:44:50.710Z</updated>
+    <updated>2021-06-11T00:40:53.684Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://baalkikhaal.github.io/rss-feed-reader/index.html"/>
     <link rel="self" href="https://baalkikhaal.github.io/rss-feed-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Azure Data Fundamentals Certification (DP-900) – Pass the Exam With This Free 4.5-Hour Course]]></title>
+        <id>60b93afaacb62507dd1d8915</id>
+        <link href="https://www.freecodecamp.org/news/azure-data-fundamentals-certification-dp-900-pass-the-exam-with-this-free-4-5-hour-course/"/>
+        <updated>2021-06-10T11:35:00.000Z</updated>
+        <summary type="html"><![CDATA[You can learn everything you need to know to earn the Azure Data Fundamentals certification by completing this free 4.5 hour course. What is the Azure Data Fundamentals Certification?The Azure Data Fundamentals Certification is for those seeking a data-related role such as Data Analyst, Data Engineer, or Data]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From the Slums of Mumbai to a Rented Apartment – My 30-Year Developer Journey]]></title>
         <id>60b357ad11ffb70827ef9a90</id>
@@ -966,76 +976,6 @@ The post Announcing TypeScript 4.3 RC appeared first on TypeScript.]]></summary>
         <link href="https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/"/>
         <updated>2021-05-12T18:49:36.000Z</updated>
         <summary type="html"><![CDATA[Kivy is a free and open source Python framework for developing mobile apps and games with a natural user interface. We just released a 5-hour Kivy course on the freeCodeCamp.org YouTube channel. In this Kivy course, you will learn to create games and applications with Python for every platform]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Selenium and Python to Scrape Websites More Effectively]]></title>
-        <id>6096aafe2cd0545b5e944430</id>
-        <link href="https://www.freecodecamp.org/news/improve-web-scraping-with-selenium/"/>
-        <updated>2021-05-11T22:53:43.000Z</updated>
-        <summary type="html"><![CDATA[When you're scraping data from the web with Python, Selenium will often come up as an helpful tool to use. It was originally designed for automated testing, but its scraping capabilities are impressive, too. This is because Selenium can do things that other libraries or frameworks often can't when collecting]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write a Résumé – Practical Guide with Example Résumé]]></title>
-        <id>6093929601fc34080ef81a0f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-a-resume-with-example/"/>
-        <updated>2021-05-11T19:40:31.000Z</updated>
-        <summary type="html"><![CDATA[Writing a résumé can be a little intimidating. And the pressure to make it really good and fill in each detail can be tiresome and scary. This is especially true if you're doing it for the first time, because you might not know what to add in or what to]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Beautiful Page Transitions in Angular]]></title>
-        <id>609a73156008950828b3f2ce</id>
-        <link href="https://www.freecodecamp.org/news/beautiful-page-transitions-in-angular/"/>
-        <updated>2021-05-11T17:50:09.000Z</updated>
-        <summary type="html"><![CDATA[In today’s world, just having a website is not enough. The website needs to have a clean UI and it needs to be intuitive. And most importantly, it needs to have some sort of interactive element. Interactivity keeps users glued to your site for longer periods of time. As]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get a Job by Building Relationships – Advice from a Senior Software Engineer]]></title>
-        <id>609552842cd0545b5e943bcd</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-a-job-by-building-relationships/"/>
-        <updated>2021-05-11T17:29:13.000Z</updated>
-        <summary type="html"><![CDATA[The job search is exhausting. You apply to countless jobs through LinkedIn and company websites. Apply, apply, apply. Submit, submit, submit. You're tired.  But you know that's not even the worst part. The worst part is the black hole your applications seem to fall into 95% of the time. Is]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Hash Table – Associative Array Hashing in JS]]></title>
-        <id>60856789dd38b9088c2bf4ff</id>
-        <link href="https://www.freecodecamp.org/news/javascript-hash-table-associative-array-hashing-in-js/"/>
-        <updated>2021-05-11T15:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Hash Tables are a data structure that allow you to create a list of paired values. You can then retrieve a certain value by using the key for that value, which you put into the table beforehand. A Hash Table transforms a key into an integer index using a hash]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Should Start Using Chakra UI]]></title>
-        <id>60977de12cd0545b5e944661</id>
-        <link href="https://www.freecodecamp.org/news/why-should-you-start-using-chakraui/"/>
-        <updated>2021-05-11T15:22:27.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll talk about what ChakraUI is and why you should use it.  Chakra UI is a component-based library. It's made up of basic building blocks that can help you build the front-end of your web application.  It is customizable and reusable, and most importantly it supports ReactJs,]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Design Good Typography - Free Treehouse Course]]></title>
-        <id>60998ee76008950828b3ed10</id>
-        <link href="https://www.freecodecamp.org/news/how-to-design-good-typography/"/>
-        <updated>2021-05-11T12:56:14.000Z</updated>
-        <summary type="html"><![CDATA[Typography is one of the most important aspects of good design. It is especially important for web designers. We just released a course on the freeCodeCamp.org YouTube channel that will teach you all you need to know about creating good typography as a UX Designer. Hope Armstrong developed this]]></summary>
         <author>
             <name/>
         </author>

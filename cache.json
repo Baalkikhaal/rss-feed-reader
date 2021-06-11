@@ -107,6 +107,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60b93afaacb62507dd1d8915",
+          "author": null,
+          "description": "You can learn everything you need to know to earn the Azure Data Fundamentals certification by completing this free 4.5 hour course. What is the Azure Data Fundamentals Certification?The Azure Data Fundamentals Certification is for those seeking a data-related role such as Data Analyst, Data Engineer, or Data",
+          "link": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-dp-900-pass-the-exam-with-this-free-4-5-hour-course/",
+          "publishedOn": "2021-06-10T11:35:00.000Z",
+          "wordCount": 583,
+          "title": "Azure Data Fundamentals Certification (DP-900) – Pass the Exam With This Free 4.5-Hour Course"
+        },
+        {
           "id": "60b357ad11ffb70827ef9a90",
           "author": null,
           "description": "Last year I tweeted about how I was moving from a Slum where I lived for 29 years to a multi-story rented apartment.  The tech community on Twitter responded with nothing but love. Dan Wahlin posted that he would love to hear more about my story. It's not going to",
@@ -852,69 +861,6 @@
           "publishedOn": "2021-05-12T18:49:36.000Z",
           "wordCount": 571,
           "title": "Use the Kivy Python Library to Create Games and Mobile Apps"
-        },
-        {
-          "id": "6096aafe2cd0545b5e944430",
-          "author": "",
-          "description": "When you're scraping data from the web with Python, Selenium will often come up as an helpful tool to use. It was originally designed for automated testing, but its scraping capabilities are impressive, too. This is because Selenium can do things that other libraries or frameworks often can't when collecting",
-          "link": "https://www.freecodecamp.org/news/improve-web-scraping-with-selenium/",
-          "publishedOn": "2021-05-11T22:53:43.000Z",
-          "wordCount": 1344,
-          "title": "How to Use Selenium and Python to Scrape Websites More Effectively"
-        },
-        {
-          "id": "6093929601fc34080ef81a0f",
-          "author": "",
-          "description": "Writing a résumé can be a little intimidating. And the pressure to make it really good and fill in each detail can be tiresome and scary. This is especially true if you're doing it for the first time, because you might not know what to add in or what to",
-          "link": "https://www.freecodecamp.org/news/how-to-write-a-resume-with-example/",
-          "publishedOn": "2021-05-11T19:40:31.000Z",
-          "wordCount": 1815,
-          "title": "How to Write a Résumé – Practical Guide with Example Résumé"
-        },
-        {
-          "id": "609a73156008950828b3f2ce",
-          "author": "",
-          "description": "In today’s world, just having a website is not enough. The website needs to have a clean UI and it needs to be intuitive. And most importantly, it needs to have some sort of interactive element. Interactivity keeps users glued to your site for longer periods of time. As",
-          "link": "https://www.freecodecamp.org/news/beautiful-page-transitions-in-angular/",
-          "publishedOn": "2021-05-11T17:50:09.000Z",
-          "wordCount": 1096,
-          "title": "How to Build Beautiful Page Transitions in Angular"
-        },
-        {
-          "id": "609552842cd0545b5e943bcd",
-          "author": "",
-          "description": "The job search is exhausting. You apply to countless jobs through LinkedIn and company websites. Apply, apply, apply. Submit, submit, submit. You're tired.  But you know that's not even the worst part. The worst part is the black hole your applications seem to fall into 95% of the time. Is",
-          "link": "https://www.freecodecamp.org/news/how-to-get-a-job-by-building-relationships/",
-          "publishedOn": "2021-05-11T17:29:13.000Z",
-          "wordCount": 1373,
-          "title": "How to Get a Job by Building Relationships – Advice from a Senior Software Engineer"
-        },
-        {
-          "id": "60856789dd38b9088c2bf4ff",
-          "author": "",
-          "description": "Hash Tables are a data structure that allow you to create a list of paired values. You can then retrieve a certain value by using the key for that value, which you put into the table beforehand. A Hash Table transforms a key into an integer index using a hash",
-          "link": "https://www.freecodecamp.org/news/javascript-hash-table-associative-array-hashing-in-js/",
-          "publishedOn": "2021-05-11T15:24:00.000Z",
-          "wordCount": 2519,
-          "title": "JavaScript Hash Table – Associative Array Hashing in JS"
-        },
-        {
-          "id": "60977de12cd0545b5e944661",
-          "author": "",
-          "description": "In this article, I'll talk about what ChakraUI is and why you should use it.  Chakra UI is a component-based library. It's made up of basic building blocks that can help you build the front-end of your web application.  It is customizable and reusable, and most importantly it supports ReactJs,",
-          "link": "https://www.freecodecamp.org/news/why-should-you-start-using-chakraui/",
-          "publishedOn": "2021-05-11T15:22:27.000Z",
-          "wordCount": 1680,
-          "title": "Why You Should Start Using Chakra UI"
-        },
-        {
-          "id": "60998ee76008950828b3ed10",
-          "author": "",
-          "description": "Typography is one of the most important aspects of good design. It is especially important for web designers. We just released a course on the freeCodeCamp.org YouTube channel that will teach you all you need to know about creating good typography as a UX Designer. Hope Armstrong developed this",
-          "link": "https://www.freecodecamp.org/news/how-to-design-good-typography/",
-          "publishedOn": "2021-05-11T12:56:14.000Z",
-          "wordCount": 413,
-          "title": "How to Design Good Typography - Free Treehouse Course"
         }
       ]
     },
