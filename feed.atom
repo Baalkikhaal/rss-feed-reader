@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baalkikhaal.github.io/rss-feed-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T00:40:53.684Z</updated>
+    <updated>2021-06-12T00:36:25.703Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://baalkikhaal.github.io/rss-feed-reader/index.html"/>
     <link rel="self" href="https://baalkikhaal.github.io/rss-feed-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is a Disaster Recovery Plan? How to Use RTO and RPO to Protect your Business]]></title>
+        <id>60b72d5facb62507dd1d777b</id>
+        <link href="https://www.freecodecamp.org/news/disaster-recovery-plan-what-are-rto-and-rpo/"/>
+        <updated>2021-06-11T22:56:56.000Z</updated>
+        <summary type="html"><![CDATA[If you're in the world of tech, you will inevitably run into a work-related disaster now and then. These setbacks come in many forms such as cyber-attacks, theft, leaks, and corruption. And every business must be ready to face these things and plan for them. Sir Benjamin Franklin famously said,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Center Anything in CSS Using Flexbox and Grid ✨]]></title>
+        <id>6063b9189618b008528a9d81</id>
+        <link href="https://www.freecodecamp.org/news/how-to-center-objects-using-css/"/>
+        <updated>2021-06-11T20:40:17.000Z</updated>
+        <summary type="html"><![CDATA[Today I'm gonna show you how you can center and align your content with CSS. Along the way, we'll look at various alignment techniques. So, let's get started! 🥇 Table of Contents -> How to Use Flexbox to center anything horizontally center anything vertically center both horizontally & Vertically How]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design Keyboard Accessibility for Complex React Experiences]]></title>
+        <id>5f9c97e9740569d1a4ca1768</id>
+        <link href="https://www.freecodecamp.org/news/designing-keyboard-accessibility-for-complex-react-experiences/"/>
+        <updated>2021-06-11T19:10:00.000Z</updated>
+        <summary type="html"><![CDATA[How you can design an inclusive and accessible org chart experience and solutions to common development challenges you will face.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Ask Good Technical Questions – the Ultimate Guide]]></title>
+        <id>60bc0444acb62507dd1d9a31</id>
+        <link href="https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/"/>
+        <updated>2021-06-11T17:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Knowing how to ask effective technical questions is an essential skill every software engineer should have.  You may be stuck with a bug, unable to figure out why your program isn't working correctly, or you might be having trouble learning how to implement a certain algorithm. In all of these]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Level Up Your React Conditionals]]></title>
+        <id>60c24cf8d3126007592d61d5</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-conditionals/"/>
+        <updated>2021-06-11T16:04:46.000Z</updated>
+        <summary type="html"><![CDATA[Do you write conditionals correctly within your React applications?  Good conditionals are an essential part of any React application. We use conditionals to show or hide elements or components in our applications.  In short – to be an effective React developer, you must know how to write good conditionals. Let's go]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure Data Fundamentals Certification (DP-900) – Pass the Exam With This Free 4.5-Hour Course]]></title>
         <id>60b93afaacb62507dd1d8915</id>
@@ -945,37 +995,6 @@ Chore: rendering logic refactoring. Adopting functional paradigm.]]></summary>
         <link href="https://www.freecodecamp.org/news/from-lawyer-to-google-engineer/"/>
         <updated>2021-05-13T16:25:03.000Z</updated>
         <summary type="html"><![CDATA[I was a corporate lawyer for 12 years. I never thought I'd be working at Google as a software engineer, but now I am. And I'm going to share with you ten important lessons I learned during this career transition. I finished law school in Bangalore, India, a year before]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing TypeScript 4.3 RC]]></title>
-        <id>https://devblogs.microsoft.com/typescript/?p=2970</id>
-        <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-4-3-rc/"/>
-        <updated>2021-05-12T22:34:18.000Z</updated>
-        <summary type="html"><![CDATA[Today we&#8217;re excited to announce our Release Candidate (RC) of TypeScript 4.3! Between now and the stable release of TypeScript 4.2, we expect no further changes apart from critical bug fixes.
-The post Announcing TypeScript 4.3 RC appeared first on TypeScript.]]></summary>
-        <author>
-            <name>Daniel Rosenwasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build and Deploy a Portfolio with Vue.JS, Axios, the GitHub REST API, and Netlify]]></title>
-        <id>5fde208ae6787e09839407c3</id>
-        <link href="https://www.freecodecamp.org/news/build-a-portfolio-with-vuejs/"/>
-        <updated>2021-05-12T20:53:20.000Z</updated>
-        <summary type="html"><![CDATA[In this guide, we will build two simple projects and deploy them on Netlify. We will use Vue.js as our front-end framework, and use different technologies to build our projects.  If you follow this tutorial to the end, you will build a simplified version of Twitter and a single]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use the Kivy Python Library to Create Games and Mobile Apps]]></title>
-        <id>609c215862ab9107fe5a9fa9</id>
-        <link href="https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/"/>
-        <updated>2021-05-12T18:49:36.000Z</updated>
-        <summary type="html"><![CDATA[Kivy is a free and open source Python framework for developing mobile apps and games with a natural user interface. We just released a 5-hour Kivy course on the freeCodeCamp.org YouTube channel. In this Kivy course, you will learn to create games and applications with Python for every platform]]></summary>
         <author>
             <name/>
         </author>
