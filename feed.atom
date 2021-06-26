@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baalkikhaal.github.io/rss-feed-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T00:44:06.660Z</updated>
+    <updated>2021-06-26T00:39:37.849Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://baalkikhaal.github.io/rss-feed-reader/index.html"/>
     <link rel="self" href="https://baalkikhaal.github.io/rss-feed-reader/feed.atom"/>
@@ -881,88 +881,6 @@ Thank you @PiyushLosalka]]></summary>
         <link href="https://www.freecodecamp.org/news/how-to-make-a-basketball-in-unity-with-materials-and-textures/"/>
         <updated>2021-05-27T15:16:34.000Z</updated>
         <summary type="html"><![CDATA[In this article, I'll teach you how to make a basketball using materials and textures in Unity. You can extend this micro-concept to create any kind of ball like a football, tennis ball, or snooker balls.  That said, these techniques aren't just limited to creating round 3D objects like balls.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS]]></title>
-        <id>60a44b9f906c5207e3a7e098</id>
-        <link href="https://www.freecodecamp.org/news/giphy-api-tutorial/"/>
-        <updated>2021-05-26T21:44:01.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What does the Muon g-2 experiment tell us?]]></title>
-        <id>http://physicsforme.com/?p=11128</id>
-        <link href="https://physicsforme.com/2021/05/26/what-does-the-muon-g-2-experiment-tell-us/"/>
-        <updated>2021-05-26T21:16:34.000Z</updated>
-        <summary type="html"><![CDATA[The Muon g-2 experiment announced one of the most tantalizing physics measurements in over a decade. It is possible that the measurement tells us that our theoretical calculation is missing some new physical phenomena. It is also possible that a new theoretical prediction points to the possibility that measurement and prediction basically agree. In this […]]]></summary>
-        <author>
-            <name>physicsgg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Contribute to Open Source  Projects – A Beginner&#x27;s Guide]]></title>
-        <id>60abe7fb11ffb70827ef63a6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/"/>
-        <updated>2021-05-26T18:01:00.000Z</updated>
-        <summary type="html"><![CDATA[If you're a developer, you've probably come across the term "open source." If you've ever wondered what it's all about and how to contribute, you are in exactly the right place.  I put aside all my fears about how and what to contribute during Hacktoberfest 2020, and made]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Basic Terraform Syntax in 20 minutes]]></title>
-        <id>606f4f5fd5756f080ba96b65</id>
-        <link href="https://www.freecodecamp.org/news/terraform-syntax-for-beginners/"/>
-        <updated>2021-05-26T18:00:52.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll give you a brief overview of the configuration syntax of Terraform.  Terraform's docs provide the most comprehensive look at its syntax. But this article should serve as a condensed quick start introduction that'll give new users a simplified overview. We'll focus on the basic structures without]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing TypeScript 4.3]]></title>
-        <id>https://devblogs.microsoft.com/typescript/?p=2984</id>
-        <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-4-3/"/>
-        <updated>2021-05-26T17:37:31.000Z</updated>
-        <summary type="html"><![CDATA[Today we’re excited to announce the availability of TypeScript 4.3!
-The post Announcing TypeScript 4.3 appeared first on TypeScript.]]></summary>
-        <author>
-            <name>Daniel Rosenwasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a GraphQL API Using Laravel]]></title>
-        <id>60abc59d11ffb70827ef6304</id>
-        <link href="https://www.freecodecamp.org/news/build-a-graphql-api-using-laravel/"/>
-        <updated>2021-05-26T16:34:32.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll walk you through how to set up your own GraphQL API using PHP and Laravel. Two years ago, I started working professionally as a backend developer. And I was very intimidated by all the technology I didn't yet know. Words like Docker, Kubernetes, and GraphQL seemed]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Package Manager 1.0]]></title>
-        <id>https://devblogs.microsoft.com/commandline/?p=6715</id>
-        <link href="https://devblogs.microsoft.com/commandline/windows-package-manager-1-0/"/>
-        <updated>2021-05-26T16:00:23.000Z</updated>
-        <summary type="html"><![CDATA[We started a journey to build a native package manager for Windows 10 when we announced the Windows Package Manager preview at Microsoft Build 2020. We released the project on GitHub as an open-source collaborative effort and the community engagement has been wonderful to experience!
-The post Windows Package Manager 1.0 appeared first on Windows Command Line.]]></summary>
-        <author>
-            <name>Demitrius Nelon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js]]></title>
-        <id>60aced0011ffb70827ef6d96</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-mario-zelda-and-space-invaders-with-kaboom-js/"/>
-        <updated>2021-05-26T14:12:27.000Z</updated>
-        <summary type="html"><![CDATA[In this video course I show you how to build three popular games using the latest game development library for JavaScript called Kaboom.js. This course is exciting for two reasons: First of all, I am going to be introducing a new technology designed especially for game development in JavaScript.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
