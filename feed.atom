@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baalkikhaal.github.io/rss-feed-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T00:46:45.756Z</updated>
+    <updated>2021-06-28T00:43:04.830Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://baalkikhaal.github.io/rss-feed-reader/index.html"/>
     <link rel="self" href="https://baalkikhaal.github.io/rss-feed-reader/feed.atom"/>
@@ -831,26 +831,6 @@ Thank you @PiyushLosalka]]></summary>
         <link href="https://www.freecodecamp.org/news/logical-fallacies-definition-fallacy-examples/"/>
         <updated>2021-06-01T04:19:48.000Z</updated>
         <summary type="html"><![CDATA[When you're debating someone, you want to use all the resources at your disposal to convince them you're right. But you should be careful that you don't end up using a logical fallacy to help you make your point. What is a Logical Fallacy?A logical fallacy is an error]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Developer Journey – How I Went from Making $1,000 to $100,000 a Year]]></title>
-        <id>60acf28e11ffb70827ef6dd9</id>
-        <link href="https://www.freecodecamp.org/news/my-developer-journey-how-i-went-from-1000-a-year-to-100000-as-a-dev/"/>
-        <updated>2021-05-28T22:58:18.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up making $100,000 a year as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Secure Your Android App – Four Security Best Practices Every Android Dev Should Know]]></title>
-        <id>60b08d8811ffb70827ef8c7b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-secure-your-android-app/"/>
-        <updated>2021-05-28T16:01:05.000Z</updated>
-        <summary type="html"><![CDATA[If you've been following the news lately, you may have noticed a worrisome tech trend. The frequency and severity of cybersecurity attacks are exploding.  We've seen news of a sprawling hack involving the SolarWinds management platform. That attack may have compromised the systems of over 18,000 SolarWinds customers.  Then,]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
