@@ -717,7 +717,17 @@
       "title": "physics4me",
       "feedUrl": "https://physicsforme.com/feed/",
       "siteUrl": "https://physicsforme.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://physicsforme.com/?p=11130",
+          "author": "physicsgg",
+          "description": "https://cerncourier.com/p/magazine/",
+          "link": "https://physicsforme.com/2021/07/05/the-july-august-edition-of-cern-courier/",
+          "publishedOn": "2021-07-05T07:11:47.000Z",
+          "wordCount": 690,
+          "title": "The July/August edition of CERN Courier"
+        }
+      ]
     },
     {
       "title": null,
