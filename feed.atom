@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baalkikhaal.github.io/rss-feed-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T00:42:35.660Z</updated>
+    <updated>2021-07-07T00:43:10.785Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://baalkikhaal.github.io/rss-feed-reader/index.html"/>
     <link rel="self" href="https://baalkikhaal.github.io/rss-feed-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Automatically Upload an Android App Bundle to the Play Store]]></title>
+        <id>60e16e1b134ad707be00d6bc</id>
+        <link href="https://www.freecodecamp.org/news/automatically-upload-an-android-app-bundle-to-the-play-store/"/>
+        <updated>2021-07-06T21:08:39.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'm going to explain how to automatically upload an Android App Bundle (.aab file) to the Play Store's beta track. We'll use Android Studio and AWS as a cloud infrastructure provider.  Once we've uploaded the app bundle, we'll trigger a Slack notification.  This is a valuable use]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Authenticate Users and Implement CORS in Node.js Apps]]></title>
+        <id>60b22e9611ffb70827ef9547</id>
+        <link href="https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/"/>
+        <updated>2021-07-06T16:02:13.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will learn how to authenticate users and secure endpoints in Node.js. You'll also see how to implement Cross-Origin Resource Sharing (CORS) in Node. So let's get started.  Prerequisites You'll need the following to follow along with this tutorial:  A working understanding of JavaScript. A good]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 JavaScript Tips to Improve Your React Code]]></title>
+        <id>60df35f027f80207bcdbccea</id>
+        <link href="https://www.freecodecamp.org/news/javascript-tips-to-improve-your-react-code-today/"/>
+        <updated>2021-07-06T15:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Let's look at five JavaScript tips you can use today to instantly improve your React applications.  Because React is a JavaScript library, any improvements that we make in our JavaScript skills will directly improve the applications that we build with React. For this reason, I've put together a number of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Schedule a Job in Node Using node-cron]]></title>
+        <id>60aa196411ffb70827ef5f43</id>
+        <link href="https://www.freecodecamp.org/news/schedule-a-job-in-node-with-nodecron/"/>
+        <updated>2021-07-06T14:27:26.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how to schedule a job in Node using node-cron.  Node-cron is a handy npm package which you can use to schedule jobs to run at specific times or intervals. It is most suitable for scheduling repetitive jobs such as email notifications, file downloads, and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The July/August edition of CERN Courier]]></title>
         <id>http://physicsforme.com/?p=11130</id>
@@ -24,6 +64,20 @@
         <summary type="html"><![CDATA[We just published demos of several upcoming freeCodeCamp features and community initiatives. You can read about them here, and watch the entire Summit in the video embedded below. Here's what we cover in this jam-packed one hour community update.Announcement #1: Campfire ModeWe've built a new mode where you can]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing TypeScript 4.4 Beta]]></title>
+        <id>https://devblogs.microsoft.com/typescript/?p=2999</id>
+        <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-4-4-beta/"/>
+        <updated>2021-07-01T19:38:59.000Z</updated>
+        <summary type="html"><![CDATA[Today we are excited to announce the beta release of TypeScript 4.4!
+npm install typescript@beta
+You can also get editor support by
+Downloading for Visual Studio 2019/2017
+The post Announcing TypeScript 4.4 Beta appeared first on TypeScript.]]></summary>
+        <author>
+            <name>Daniel Rosenwasser</name>
         </author>
     </entry>
     <entry>
