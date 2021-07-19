@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baalkikhaal.github.io/rss-feed-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-18T00:42:29.602Z</updated>
+    <updated>2021-07-19T00:44:22.670Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://baalkikhaal.github.io/rss-feed-reader/index.html"/>
     <link rel="self" href="https://baalkikhaal.github.io/rss-feed-reader/feed.atom"/>
@@ -725,36 +725,6 @@ Thank you @PiyushLosalka]]></summary>
         <link href="https://www.freecodecamp.org/news/css-position-property-explained/"/>
         <updated>2021-06-21T16:36:14.000Z</updated>
         <summary type="html"><![CDATA[Today we're gonna learn everything you need to know about the CSS position property along with examples. Let's get started 🎖️ Table of contents What is CSS Position Property?What is the Static Position in CSS?What are the Relative and Absolute Positions in CSS?What is the Fixed Position in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TCP vs UDP – Which Protocol is Faster?]]></title>
-        <id>60b46dbd11ffb70827ef9dea</id>
-        <link href="https://www.freecodecamp.org/news/tcp-vs-udp-which-is-faster/"/>
-        <updated>2021-06-18T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[What is TCP?TCP is an acronym for Transmission Control Protocol. It is a transport layer protocol that allows packets to be sent from one location to another.  TCP is a connection-oriented protocol, which means it establishes the connection before any communication between the network’s computer units. Because we]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning Specialisation Courses for Advanced ML Practitioners]]></title>
-        <id>60cc5a904dc1a607ed7b4c54</id>
-        <link href="https://www.freecodecamp.org/news/machine-learning-specialisation-courses-for-advanced-ml-practitioners/"/>
-        <updated>2021-06-18T15:43:56.000Z</updated>
-        <summary type="html"><![CDATA[Today, you don’t need to go to a university or a college to pursue a career in machine learning or any data-driven domain. But you do need a plan and a roadmap to guide your studies. Once you have charted your own learning roadmap with a goal in mind,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Sorting Algorithms]]></title>
-        <id>60cca3294dc1a607ed7b4c76</id>
-        <link href="https://www.freecodecamp.org/news/understanding-sorting-algorithms/"/>
-        <updated>2021-06-18T13:56:04.000Z</updated>
-        <summary type="html"><![CDATA[Every programming language uses sorting algorithms. While programming languages have easy-to-use sorting methods, it can be helpful to understand how they work. We just released a course on the freeCodeCamp.org YouTube channel that will teach you some of the most popular sorting algorithms! Haris Iftikhar developed this course. Haris]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
